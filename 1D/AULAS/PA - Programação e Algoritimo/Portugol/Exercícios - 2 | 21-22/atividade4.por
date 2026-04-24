@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade10.por
 * Data: 11/04/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Ler o tempo de permanência de um veículo em um estacionamento.
 * Calcular e exibir o preço a ser pago, considerando o tempo de permanência do veículo.
 * As primeiras 2 horas custam R$ 2,00 cada, e cada hora adicional custa R$1,00.
