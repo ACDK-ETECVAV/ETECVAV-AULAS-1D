@@ -10,7 +10,7 @@
 ---
 
 ## Exercício 1 — Conceitual  
-**Responsável:** Ronildo
+**Responsável:** Ronildo Aparecido
 
 Um algoritmo é uma sequência de passos organizados que serve para resolver um problema ou realizar uma tarefa.
 
