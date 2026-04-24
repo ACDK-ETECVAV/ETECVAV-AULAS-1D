@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade10.por
 * Data: 12/04/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Ler três números, verificar se formam um triângulo e, se sim, exibir se é um triângulo equilátero, isósceles ou escaleno.
 */
 
