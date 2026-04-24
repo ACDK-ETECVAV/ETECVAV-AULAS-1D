@@ -42,6 +42,13 @@ Escovar os dentes:
 ### Pseudocódigo (Portugol)
 
 ```portugol
+/*
+* Instituição: EtecVAV - Vasco Antonio Vechiarutti
+* Arquivo: atividade10.por
+* Data: 21/04/2026
+* Autores: Anthony muraro, Calebe Barros Ramalho Da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
+*/
+
 programa
 {
     funcao inicio()
