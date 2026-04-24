@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade10.por
 * Data: 11/04/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Ler o preço do etanol e da gasolina. Sugerir o tipo de combustível a ser utilizado em um carro,
 * com base no preço: se o preço do etanol for até 70% do preço da gasolina, é recomendado usar álcool;
 * caso contrário, usar gasolina. Exibir o resultado sugerido.
