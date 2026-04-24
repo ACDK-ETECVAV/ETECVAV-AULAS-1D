@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade7.por
 * Data: 16/03/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Ler a base menor, a base maior e a altura. Calcular e mostrar a área de um trapézio:
 * (Base menor + base menor) + altura / 2.
 */
