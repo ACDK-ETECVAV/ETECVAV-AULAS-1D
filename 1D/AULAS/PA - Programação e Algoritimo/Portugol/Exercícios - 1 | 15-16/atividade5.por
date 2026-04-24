@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade5.por
 * Data: 16/03/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Ler o preço do litro de combustível e o valor que pretende abastecer.
 * Calcular a quantidade de litros no abastecimento e exibir os dados. Calcular a quantidade de abastecimento e exibir os dados lidos e o valor calculado.
 */
