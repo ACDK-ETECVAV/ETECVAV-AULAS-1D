@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: cavaloatividade1.por
 * Data: 13/03/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * Descrição: 
 * O Haras Cavalos Brilhantes compra cavalos com frequência. Ler a quantidade de cavalos
 * adquiridos recentemente, calcular a quantidade de ferraduras necessárias para os novos cavalos e exibir
