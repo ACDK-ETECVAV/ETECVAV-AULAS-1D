@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade10.por
 * Data: 20/03/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * O caixa do supermercado recebe uma certa quantidade de moedas por dia.
 * Ler a quantidade de moedas recebidas de acordo com cada um dos valores 1, 5, 10, 25 e 50 centavos, e ainda moedas de 1 real.
 * Calcular e exibir o valor recebido de cada um dos tipos de moeda e a soma total em moedas.
