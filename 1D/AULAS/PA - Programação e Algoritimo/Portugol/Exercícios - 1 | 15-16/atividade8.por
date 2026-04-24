@@ -2,7 +2,7 @@
 * Instituição: EtecVAV - Vasco Antonio Vechiarutti
 * Arquivo: atividade8.por
 * Data: 16/03/2026
-* Autor: Calebe Barros Ramalho Da Silva
+* Autor: Anthony muraro, Calebe Barros Ramalho da Silva, Daniel Teixeira Vitoriano e Kelven Chetz Man Gallippi
 * O vendedor recebe seu salário fixo acrescido de comissões de vendas, calculada a partir do percentual do valor de suas vendas.
 * Ler o salário fixo do vendedor, o valor de suas vendas e o percentual sobre as vendas. Calcular e exibir o salário final do vendedor.
 */
