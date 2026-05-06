@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>O que é CSS</title>
+
+  <style>
+    :root {
+      --card: #111827;
+      --text: #e5e7eb;
+      --accent: #8cdd23;
+    }
+
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: linear-gradient(135deg, #91e0bc, #1e293b);
+      color: var(--text);
+      line-height: 1.6;
+      padding: 20px;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      color: var(--primary);
+    }
+
+    header p {
+      color: var(--muted);
+    }
+
+    .container {
+      max-width: 900px;
+      margin: auto;
+    }
+
+    .card {
+      background: var(--card);
+      padding: 20px;
+      border-radius: 15px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      transition: transform 0.2s;
+    }
+
+    h2 {
+      color: var(--accent);
+      margin-bottom: 10px;
+    }
+
+    code {
+      display: block;
+      background: #020617;
+      padding: 10px;
+      border-radius: 10px;
+      margin-top: 10px;
+      color: #22c55e;
+      font-family: monospace;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <header>
+    <h1>O QUE É CSS?</h1>
+    <p>Guri's STUDIOS</p>
+  </header>
+
+  <div>
+
+    <div class="card">
+      <h2>Definição</h2>
+      <p>
+        O CSS (Cascading Style Sheets) é uma linguagem usada para estilizar páginas web,
+        definindo cores, fontes, tamanhos e layout.
+      </p>
+      <p>
+        Ele é essencial para criar sites modernos, organizados e visualmente agradáveis.
+      <P>
+        O CSS trabalha em conjunto com o HTML, permitindo separar a estrutura do conteúdo da sua apresentação visual.
+      </P>  
+      <P>
+          Com o CSS, é possível criar designs responsivos, que se adaptam a diferentes tamanhos de tela, tornando a experiência do usuário mais agradável.
+      </P>
+    </div>
+
+    <img src = "https://i.workana.com/wp-content/uploads/2018/11/css-1.jpg" alt="CSS Example" style="width: 100%; border-radius: 15px; margin-bottom: 20px;"> 
+
+    <div class="card">
+      <h2>Seletores</h2>
+      <p>Escolhem quais elementos serão estilizados.</p>
+      <code>
+        p { color: red; }
+        .titulo { color: blue; }
+        #principal { color: green; }
+      </code>
+      <p>
+        Exemplo: O seletor <code>p</code> estiliza todos os parágrafos, <code>.titulo</code> estiliza elementos com a classe "titulo" e <code>#principal</code> estiliza o elemento com o ID "principal".
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Propriedades</h2>
+      <p>Definem o que será alterado.</p>
+      <code>
+        color, font-size, background-color, margin
+      </code>
+      <p>
+        Exemplo: A propriedade <code>color</code> altera a cor do texto, <code>font-size</code> altera o tamanho da fonte, <code>background-color</code> altera a cor de fundo e <code>margin</code> define o espaçamento externo.
+      </p>
+    </div>
+
+    <div class="card">
+      <h2>Valores</h2>
+      <p>Definem como será aplicado.</p>
+      <code>
+        color: blue;
+        font-size: 20px;
+      </code>
+      <p>
+        Exemplo: O valor <code>blue</code> define a cor azul para o texto, enquanto <code>20px</code> define o tamanho da fonte como 20 pixels.
+      </p>
+    </div>
+
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS Logo" style="width: 200px; display: block; margin: 20px auto;">
+
+    <div class="card">
+      <h2>Conclusão</h2>
+      <p>
+        O CSS é essencial para criar sites modernos, organizados e visualmente agradáveis.
+      </p>
+      <p>
+        Ele permite separar a estrutura do conteúdo da sua apresentação visual, tornando a manutenção do site mais fácil e eficiente. Com o CSS, é possível criar designs responsivos, que se adaptam a diferentes tamanhos de tela, proporcionando uma experiência do usuário mais agradável. 
+      </p>   
+    </div>
+
+  </div>
+  
+</body>
+</html>
