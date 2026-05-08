@@ -1,0 +1,6 @@
+C:\Users\EtecVAV>cd downloads
+C:\Users\EtecVAV\Downloads>dir
+C:\Users\EtecVAV\Downloads>cd numero
+dir
+C:\Users\EtecVAV\Downloads\numero>numero.exe
+C:\Users\EtecVAV\Downloads\numero>type main.cpp
