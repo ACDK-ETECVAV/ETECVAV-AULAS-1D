@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<h lang="pt-br">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title bgcolor="#FFFF00">Abril laranja</title>
+    </head>
+
+    <body>
+        <table border="1" width="100%" heigth="100%" cellspacing="0" cellspadding="10">
+        <tr bgcolor="#E09652" height="80px">
+            <td colspan="3" align="center">
+                <h1> <img src="faixa laranja.png" alt="" width="30px" height="30px"> Abril Laranja <img src="faixa laranja.png" alt="" width="30px" height="30px">  </h1>
+            </td>
+        </tr>
+        <tr height="1600px">
+            <td width="10%" bgcolor="#D7DBD6" valign="top">
+                <h3>Caso tenha interesse:</h3>
+                <ul>
+                    <li><a href="leis.html"> Leis</a></li>
+                    <li><a href="index.html">Abril laranja</a></li>
+                </ul>
+            </td>
+            <td bgcolor="#DFB98C" valign="top">
+                <h2>
+                    O que é: 
+
+<p>    O Abril Laranja é uma campanha de conscientização dedicada à prevenção e ao combate aos maus-tratos contra animais. Essa iniciativa busca chamar a atenção da sociedade para a importância de tratar os animais com respeito, dignidade e cuidado. Durante todo o mês de abril, diversas ações são realizadas com o objetivo de informar as pessoas sobre os direitos dos animais e incentivar atitudes mais responsável.  <center><img src="Capa2560.jpg" alt="" width="400" height="200"></center> <br>
+A campanha abrange todos os tipos de animais, incluindo animais domésticos, como cães e gatos, animais silvestres e também aqueles utilizados em atividades econômicas. O Abril Laranja reforça a ideia de que os animais são seres vivos que sentem dor, medo e sofrimento, e por isso devem ser protegidos. <br>
+Além disso, o movimento também promove a reflexão sobre práticas comuns que muitas vezes passam despercebidas, como abandono, negligência, exploração e violência. Muitas pessoas ainda não reconhecem essas atitudes como maus-tratos, e a campanha ajuda a esclarecer esses pontos. <br>
+Outro aspecto importante é a educação da população, principalmente crianças e jovens, para que cresçam com uma visão mais ética e empática em relação aos animais. Isso contribui para a formação de uma sociedade mais consciente e responsável. <br>
+O Abril Laranja também incentiva a adoção responsável, mostrando que adotar um animal exige compromisso, cuidado e dedicação ao longo de toda a vida do animal.</p></h2>
+<h2>
+    Importância:
+
+<p>O Abril Laranja é extremamente importante porque ajuda a combater um problema ainda muito presente na sociedade: a violência contra os animais. Muitas vezes, esses casos acontecem de forma silenciosa, sem que ninguém intervenha. <br>
+A campanha contribui para dar visibilidade a essa questão, mostrando que os animais precisam de proteção e que a sociedade tem um papel fundamental nisso. Quanto mais pessoas estiverem informadas, maior será a chance de reduzir os casos de maus-tratos. <br>
+Outro ponto importante é a formação de uma consciência coletiva baseada no respeito e na empatia. Quando as pessoas aprendem a cuidar dos animais, também desenvolvem valores importantes para a convivência em sociedade. <br>
+Além disso, o Abril Laranja ajuda a fortalecer políticas públicas e incentivar a criação de novas leis de proteção animal. A pressão social gerada pela conscientização pode levar a mudanças significativas. <br>
+A campanha também incentiva a adoção responsável, reduzindo o número de animais abandonados e melhorando a qualidade de vida desses seres.
+Por fim, o Abril Laranja mostra que pequenas atitudes fazem diferença, como denunciar, adotar, cuidar e respeitar os animais. Essas ações, quando somadas, podem transformar a realidade e construir um mundo mais justo para todos os seres vivos.</p></h2>
+
+<h2>Criação:
+
+ <p> O Abril Laranja foi criado pela American Society for the Prevention of Cruelty to Animals, conhecida como ASPCA, uma das organizações mais antigas do mundo dedicadas à proteção dos animais. A escolha do mês de abril foi estratégica, com o objetivo de estabelecer um período anual dedicado exclusivamente à conscientização sobre o tema. <br>
+A ASPCA surgiu nos Estados Unidos com a missão de combater a crueldade contra animais e promover o bem-estar animal por meio de ações educativas, resgates e apoio a leis de proteção. Ao criar o Abril Laranja, a organização buscou ampliar o alcance dessa causa, incentivando a participação da sociedade. <br>
+Com o passar do tempo, a campanha ganhou visibilidade internacional e passou a ser adotada em diversos países, incluindo o Brasil. Aqui, ONGs, protetores independentes e órgãos públicos passaram a utilizar o mês de abril para intensificar ações de conscientização. <br>
+A expansão da campanha foi impulsionada principalmente pelas redes sociais, que permitiram que informações fossem compartilhadas rapidamente, alcançando um público maior. Isso ajudou a fortalecer o movimento e aumentar o engajamento das pessoas. <br>
+Hoje, o Abril Laranja não é apenas uma campanha criada por uma organização, mas sim um movimento global que envolve diferentes setores da sociedade, todos unidos pelo objetivo de proteger os animais. </p></h2>
+
+<h2>Funcionamento atual:
+
+<p>Atualmente, o Abril Laranja funciona como uma grande mobilização social que envolve diferentes tipos de ações ao longo do mês de abril. Organizações não governamentais, escolas, empresas e órgãos públicos participam da campanha promovendo atividades educativas e informativas. <br>
+Uma das principais formas de atuação é por meio das redes sociais, onde são divulgadas informações, vídeos, campanhas e relatos que ajudam a conscientizar a população. Essas plataformas permitem que a mensagem alcance milhares de pessoas rapidamente. <br>
+Também são realizadas palestras em escolas e comunidades, com o objetivo de educar crianças e jovens sobre a importância do respeito aos animais. Esse trabalho educativo é essencial para prevenir comportamentos de violência no futuro. <br>
+Outra ação comum são as feiras de adoção, que incentivam as pessoas a adotarem animais de forma responsável, oferecendo um novo lar para animais abandonados. <br>
+Além disso, o Abril Laranja incentiva a denúncia de maus-tratos, orientando a população sobre como agir ao presenciar situações de violência contra animais. Isso é fundamental para que as leis sejam aplicadas. <br>
+O movimento também conta com a participação de voluntários e protetores independentes, que atuam diretamente no resgate e cuidado de animais em situação de risco.</p></h2>
+
+ 
+           </td>
+        </tr>
+        </table>
+        <tr height="400px">
+            <td></td>
+        </tr>
+        <footer>
+            <p>Criadores: <br> Gustavo Costa Bastos
+            <br> Laura Alves Figueiredo
+        </footer>
+    </body>
