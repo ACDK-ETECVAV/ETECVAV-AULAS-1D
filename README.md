@@ -1,4 +1,4 @@
-<img width="434" height="498" alt="AngryMadGIF" src="https://github.com/user-attachments/assets/d21d503f-33fc-4d5a-9d2d-2395b93b10b7" /># 💻 Projeto INFONET - ETECVAV
+# 💻 Projeto INFONET - ETECVAV
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Curso](https://img.shields.io/badge/curso-INFONET-blue)
@@ -64,3 +64,7 @@ Este repositório reúne atividades, projetos e exercícios desenvolvidos durant
 
 ## 🚀 Objetivo
 Desenvolver habilidades em programação, lógica e criação de interfaces web, aplicando conceitos práticos ao longo do curso.
+
+---
+
+<img width="480" height="480" alt="GoodNightGIF" src="https://github.com/user-attachments/assets/ba2766e7-7893-447a-b2b0-53c6534d9bff" />
