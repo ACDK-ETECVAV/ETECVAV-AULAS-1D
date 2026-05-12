@@ -1,4 +1,4 @@
-# 💻 Projeto INFONET - ETECVAV
+<img width="434" height="498" alt="AngryMadGIF" src="https://github.com/user-attachments/assets/d21d503f-33fc-4d5a-9d2d-2395b93b10b7" /># 💻 Projeto INFONET - ETECVAV
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Curso](https://img.shields.io/badge/curso-INFONET-blue)
@@ -7,10 +7,10 @@
 ---
 
 ## 👨‍🎓 Alunos
-- 👨‍💻 Anthony muraro
-- 👨‍💻 Calebe Barros Ramalho da Silva  
-- 👨‍💻 Daniel Teixeira Vitoriano  
-- 👨‍💻 Kelven Chetz Man Gallippi  
+- 🧑🏻 Anthony muraro
+- 👱🏻 Calebe Barros Ramalho da Silva  
+- 🧢 Daniel Teixeira Vitoriano  
+- 🍰 Kelven Chetz Man Gallippi  
 
 ---
 
@@ -26,9 +26,10 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 ---
 
 ## 📚 Disciplinas
+- 🖼️ Arte Digital
+- 🏦 Banco de Dados
 - 🌐 Interface Web  
 - 💡 Programação e Algoritmos  
-- 🎗️ Interface Web – Projeto Abril Laranja  
 
 ---
 
@@ -38,9 +39,12 @@ Este repositório reúne atividades, projetos e exercícios desenvolvidos durant
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+- 💽 CSS
 - 🧱 HTML  
 - 🧮 Portugol  
 - 🎨 GIMP  
+- 📝 WORD
+- 💻 POWERPOINT
 
 ---
 
@@ -54,7 +58,6 @@ Este repositório reúne atividades, projetos e exercícios desenvolvidos durant
 ---
 
 ## 📬 Contato
-📧 **Email:** calebebarros108@gmail.com  
 📧 **Email:** aleatorizando29@gmail.com
 
 ---
