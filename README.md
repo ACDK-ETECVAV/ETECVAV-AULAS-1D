@@ -1,9 +1,8 @@
 # 💻 Projeto INFONET - ETECVAV
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-%20Mentalizando-yellow)
 ![Curso](https://img.shields.io/badge/curso-INFONET-blue)
-![Tecnologias](https://img.shields.io/badge/tecnologias-HTML%20%7C%20Portugol%20%7C%20GIMP-green)
-
+![Tecnologias](https://img.shields.io/badge/tecnologias-CSS%20%7C%20HTML%20%7C%20Portugol%20%7C%20GIMP%20%7C%20Word%20%7C%20PowerPoint-green)
 ---
 
 ## 👨‍🎓 Alunos
