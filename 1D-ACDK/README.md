@@ -43,9 +43,8 @@
 
 ---
 
-| TRABALHO| BANCO DE DADOS| USAR| Dupla 1 | Dupla 2 |
-|---|---|---|
-| Exercícios de DER
+## Exercícios de DER
+
 Data de conclusão 12 de maio de 2026 às 23:59
 Fecha 12 de maio de 2026 às 23:59
 Instruções
@@ -60,4 +59,4 @@ Digitalize de forma clara e legível os DER, cole no word e envie em formato doc
  
 
 3-)Um hotel possui uma série de ambientes cadastrados por número e quantidade de ocupantes. Os ambientes podem ser salas de apresentação cadastradas por equipamento disponível ou então apartamentos que são cadastrados por tipo e nível. Esse hotel também possui um cadastro de todos os seus clientes por código, nome, endereço, cidade, estado e fones*. A hospedagem associa o cliente ao ambiente e tem como atributos data, hora e duração. Toda hospedagem deve ser liberada numa determinada hora pelos funcionários. Os funcionários são cadastrados por código, nome, endereço, data de nascimento, função e salário.
- pode fazer um canva? | TERMINAR HOJE | VAI TOMANDO| [Pendente](p) | [Pendente](k) |
+ pode fazer um canva?
