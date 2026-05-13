@@ -20,8 +20,8 @@
 
 | Dupla 1 | Dupla 2| 
 |---|---|
-| Anthony Muraro | Daniel Teixeira |
-| Calebe Barros| Kelven Chetz |
+| Anthony Piazzaroli Muraro | Daniel Teixeira Vitoriano |
+| Calebe Barros Ramalho Da Silva | Kelven Chetz Man Gallipi |
 
 ---
 
