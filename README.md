@@ -5,7 +5,7 @@
 ![Tecnologias](https://img.shields.io/badge/tecnologias-CSS%20%7C%20HTML%20%7C%20Portugol%20%7C%20GIMP%20%7C%20Word%20%7C%20PowerPoint-green)
 ---
 
-![Trabalhos Pendentes](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/README.md)
+[![Trabalhos Pendentes](https://img.shields.io/badge/Trabalhos-Pendentes-red?style=for-the-badge)](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/README.md)
 
 ---
 
