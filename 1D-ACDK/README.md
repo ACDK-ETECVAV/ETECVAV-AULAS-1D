@@ -9,10 +9,10 @@
 
 | Integrante | Função | Tecnologias |
 |---|---|---|
-| 🧑🏻 Anthony Muraro | Desenvolvedor | HTML / CSS |
-| 👱🏻 Calebe Barros Ramalho da Silva | Organização | GitHub |
-| 🧢 Daniel Teixeira Vitoriano | Designer | GIMP / CSS |
-| 🍰 Kelven Chetz Man Gallippi | k | Documentação |
+| 🧑🏻 Anthony Muraro | Desenvolvedor Ajudante | HTML / CSS |
+| 👱🏻 Calebe Barros Ramalho da Silva | Organização e Geral | GitHub |
+| 🧢 Daniel Teixeira Vitoriano | Pesquisador | GIMP / CSS |
+| 🍰 Kelven Chetz Man Gallippi | Ajudante Geral | Documentação |
 
 ---
 
