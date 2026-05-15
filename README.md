@@ -72,4 +72,4 @@ Desenvolver habilidades em programação, lógica e criação de interfaces web,
 
 ---
 
-<img width="480" height="480" alt="GoodNightGIF" src="https://github.com/user-attachments/assets/ba2766e7-7893-447a-b2b0-53c6534d9bff" />
+
