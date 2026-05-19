@@ -136,3 +136,39 @@ img{
         width: 70%;
     }
 }
+
+.grafico-barras{
+    margin-top: 20px;
+}
+
+.barra-container{
+    margin-bottom: 20px;
+}
+
+.barra-container span{
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.barra{
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.junior{
+    width: 35%;
+    background-color: #22c55e;
+}
+
+.pleno{
+    width: 60%;
+    background-color: #eab308;
+}
+
+.senior{
+    width: 90%;
+    background-color: #ef4444;
+}
