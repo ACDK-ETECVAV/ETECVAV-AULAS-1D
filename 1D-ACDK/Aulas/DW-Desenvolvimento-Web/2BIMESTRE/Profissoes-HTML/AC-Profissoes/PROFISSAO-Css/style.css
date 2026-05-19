@@ -1,6 +1,5 @@
-
 *{
-    margin: 0;
+    margin: 1;
     padding: 0;
     box-sizing: border-box;
 }
@@ -9,7 +8,7 @@ body{
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #222;
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 header{
@@ -20,8 +19,14 @@ header{
 }
 
 header h1{
-    font-size: 24px;
-    margin-bottom: 15px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+header h2{
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 20px;
 }
 
 nav{
@@ -31,21 +36,25 @@ nav{
 }
 
 nav a{
-    color: rgb(0, 0, 0);
     text-decoration: none;
+    color: white;
     background-color: rgba(255,255,255,0.15);
-    padding: 10px;
-    border-radius: 5px;
+
+    padding: 12px;
+
+    border-radius: 8px;
+
+    transition: 0.3s;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
-    text-align: center;
+nav a:hover{
+    background-color: rgba(255,255,255,0.3);
 }
 
-nav li {
-    margin: 10px 0;
+.ativo{
+    background-color: white;
+    color: #2563eb;
+    font-weight: bold;
 }
 
 main{
@@ -56,24 +65,29 @@ main{
 
 section{
     background-color: white;
-    padding: 15px;
+
+    padding: 20px;
+
     margin-bottom: 20px;
-    border-radius: 8px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 section h2{
-    margin-bottom: 10px;
-    font-size: 20px;
+    margin-bottom: 15px;
+    font-size: 22px;
 }
 
 section p,
 section li{
-    font-size: 15px;
+    font-size: 16px;
 }
 
 img{
     width: 100%;
-    border-radius: 8px;
+    border-radius: 10px;
     margin-top: 15px;
 }
 
@@ -90,10 +104,12 @@ footer{
     nav{
         flex-direction: row;
         justify-content: center;
+        flex-wrap: wrap;
     }
 
     nav a{
         width: auto;
+        min-width: 120px;
     }
 
     main{
@@ -104,15 +120,19 @@ footer{
 @media (min-width: 1024px){
 
     header h1{
-        font-size: 36px;
+        font-size: 42px;
+    }
+
+    header h2{
+        font-size: 20px;
     }
 
     section{
-        padding: 25px;
+        padding: 30px;
     }
 
     section h2{
-        font-size: 28px;
+        font-size: 30px;
     }
 
     section p,
