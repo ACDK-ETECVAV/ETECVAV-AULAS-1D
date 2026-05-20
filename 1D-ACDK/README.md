@@ -18,7 +18,7 @@
 
 ## 🗃️ Duplas Do Curso
 
-| Dupla 1 | Dupla 2| 
+| Dupla 1 - Guris | Dupla 2 - Patrocinadores | 
 |---|---|
 | Anthony Piazzaroli Muraro | Daniel Teixeira Vitoriano |
 | Calebe Barros Ramalho Da Silva | Kelven Chetz Man Gallipi |
