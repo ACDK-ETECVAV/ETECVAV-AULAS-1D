@@ -1,1 +1,228 @@
+/* MELHORE O CSS DA PESQUISA */
 
+.search{
+
+    width:100%;
+
+    padding:16px 18px;
+
+    border:none;
+
+    border-radius:16px;
+
+    background:
+    rgba(255,255,255,0.06);
+
+    color:white;
+
+    margin-bottom:22px;
+
+    outline:none;
+
+    font-size:15px;
+
+    border:
+    1px solid rgba(255,255,255,0.08);
+
+    transition:0.3s;
+}
+
+.search:focus{
+
+    border-color:#3b82f6;
+
+    box-shadow:
+    0 0 0 4px rgba(59,130,246,0.15);
+
+    background:
+    rgba(255,255,255,0.08);
+}
+
+.search::placeholder{
+    color:#94a3b8;
+}
+
+<!-- ADICIONE ESSE SCRIPT ANTES DO </script> FINAL -->
+
+const commands = [
+
+{
+    title:"<div>",
+    desc:"Cria divisões/blocos no site.",
+    code:`<div></div>`
+},
+
+{
+    title:"<h1>",
+    desc:"Cria um título principal.",
+    code:`<h1>Título</h1>`
+},
+
+{
+    title:"<p>",
+    desc:"Cria um parágrafo.",
+    code:`<p>Texto</p>`
+},
+
+{
+    title:"<img>",
+    desc:"Adiciona imagens.",
+    code:`<img src="">`
+},
+
+{
+    title:"<button>",
+    desc:"Cria botões interativos.",
+    code:`<button>Clique</button>`
+},
+
+{
+    title:"display:flex",
+    desc:"Organiza elementos lado a lado.",
+    code:`display:flex;`
+},
+
+{
+    title:"justify-content",
+    desc:"Alinha horizontalmente.",
+    code:`justify-content:center;`
+},
+
+{
+    title:"align-items",
+    desc:"Alinha verticalmente.",
+    code:`align-items:center;`
+},
+
+{
+    title:"background",
+    desc:"Define o fundo.",
+    code:`background:black;`
+},
+
+{
+    title:"color",
+    desc:"Define a cor do texto.",
+    code:`color:white;`
+},
+
+{
+    title:"border-radius",
+    desc:"Arredonda os cantos.",
+    code:`border-radius:20px;`
+},
+
+{
+    title:"box-shadow",
+    desc:"Adiciona sombras.",
+    code:`box-shadow:0 0 20px black;`
+},
+
+{
+    title:"padding",
+    desc:"Espaçamento interno.",
+    code:`padding:20px;`
+},
+
+{
+    title:"margin",
+    desc:"Espaçamento externo.",
+    code:`margin:20px;`
+},
+
+{
+    title:"font-size",
+    desc:"Define tamanho do texto.",
+    code:`font-size:20px;`
+},
+
+{
+    title:"width",
+    desc:"Define largura.",
+    code:`width:300px;`
+},
+
+{
+    title:"height",
+    desc:"Define altura.",
+    code:`height:300px;`
+}
+
+];
+
+const commandsContainer =
+document.getElementById("commandsContainer");
+
+const searchInput =
+document.getElementById("searchInput");
+
+function renderCommands(filter=""){
+
+    commandsContainer.innerHTML = "";
+
+    const filtered = commands.filter(cmd =>
+
+        cmd.title.toLowerCase().includes(
+            filter.toLowerCase()
+        )
+
+    );
+
+    if(filtered.length === 0){
+
+        commandsContainer.innerHTML = `
+        <p style="
+        color:#94a3b8;
+        margin-top:20px;
+        text-align:center;
+        ">
+        Nenhum comando encontrado.
+        </p>
+        `;
+
+        return;
+    }
+
+    filtered.forEach(cmd => {
+
+        commandsContainer.innerHTML += `
+
+        <div class="command-card">
+
+            <h3>${cmd.title}</h3>
+
+            <p>${cmd.desc}</p>
+
+            <code>${cmd.code}</code>
+
+        </div>
+
+        `;
+    });
+}
+
+searchInput.addEventListener("input",(e)=>{
+
+    renderCommands(e.target.value);
+
+});
+
+renderCommands();
+
+      <!-- SUBSTITUA A SIDEBAR INTEIRA POR ESSA -->
+
+<aside class="sidebar">
+
+    <div class="sidebar-title">
+        📚 Biblioteca HTML & CSS
+    </div>
+
+    <input
+    class="search"
+    id="searchInput"
+    placeholder="Pesquisar comando..."
+    >
+
+    <div id="commandsContainer"></div>
+
+</aside>
