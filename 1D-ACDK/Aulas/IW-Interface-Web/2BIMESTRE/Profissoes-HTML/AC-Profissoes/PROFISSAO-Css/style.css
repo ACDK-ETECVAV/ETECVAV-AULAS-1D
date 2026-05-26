@@ -1,0 +1,174 @@
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+    line-height: 1.6;
+}
+
+header{
+    background-color: #2563eb;
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+}
+
+header h1{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+header h2{
+    font-size: 16px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(255,255,255,0.15);
+
+    padding: 12px;
+
+    border-radius: 8px;
+
+    transition: 0.3s;
+}
+
+nav a:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.ativo{
+    background-color: white;
+    color: #2563eb;
+    font-weight: bold;
+}
+
+main{
+    width: 95%;
+    margin: auto;
+    padding: 20px 0;
+}
+
+section{
+    background-color: white;
+
+    padding: 20px;
+
+    margin-bottom: 20px;
+
+    border-radius: 10px;
+
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+section h2{
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+
+section p,
+section li{
+    font-size: 16px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+@media (min-width: 768px){
+
+    nav{
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    nav a{
+        width: auto;
+        min-width: 120px;
+    }
+
+    main{
+        width: 85%;
+    }
+}
+
+@media (min-width: 1024px){
+
+    header h1{
+        font-size: 42px;
+    }
+
+    header h2{
+        font-size: 20px;
+    }
+
+    section{
+        padding: 30px;
+    }
+
+    section h2{
+        font-size: 30px;
+    }
+
+    section p,
+    section li{
+        font-size: 18px;
+    }
+
+    main{
+        width: 70%;
+    }
+}
+
+.grafico-barras{
+    margin-top: 20px;
+}
+
+.barra-container{
+    margin-bottom: 20px;
+}
+
+.barra-container span{
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.barra{
+    color: white;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.junior{
+    width: 35%;
+    background-color: #22c55e;
+}
+
+.pleno{
+    width: 60%;
+    background-color: #eab308;
+}
+
+.senior{
+    width: 90%;
+    background-color: #ef4444;
+}
