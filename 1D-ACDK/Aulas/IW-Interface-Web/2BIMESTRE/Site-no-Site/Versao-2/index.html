@@ -1,0 +1,145 @@
+<!-- ========================= -->
+<!-- index.html -->
+<!-- ========================= -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Site Builder Pro</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<!-- SIDEBAR -->
+
+<aside class="sidebar">
+
+    <div class="sidebar-title">
+        📚 Biblioteca HTML & CSS
+    </div>
+
+    <input
+        class="search"
+        id="searchInput"
+        placeholder="Pesquisar comando..."
+    >
+
+    <div id="commandsContainer"></div>
+
+</aside>
+
+<!-- MAIN -->
+
+<div class="main">
+
+    <!-- TOP BAR -->
+
+    <div class="topbar">
+
+        <button class="run-btn" onclick="runCode()">
+            ▶ Executar
+        </button>
+
+    </div>
+
+    <!-- DOWNLOAD -->
+
+    <div class="download-panel">
+
+        <h3>📥 Download do Projeto</h3>
+
+        <input
+            type="text"
+            id="projectName"
+            placeholder="Nome do projeto"
+            value="meu-site"
+        >
+
+        <div class="download-buttons">
+
+            <button onclick="downloadHTML()">
+                Baixar HTML
+            </button>
+
+            <button onclick="downloadCSS()">
+                Baixar CSS
+            </button>
+
+            <button onclick="downloadCompleteProject()">
+                Projeto Completo
+            </button>
+
+        </div>
+
+    </div>
+
+    <!-- EDITORES -->
+
+    <div class="editor-area">
+
+        <div class="editor">
+
+            <div class="editor-title">
+                HTML
+            </div>
+
+            <textarea id="htmlCode"><h1>Olá Mundo</h1>
+
+<p>Seu site aparece aqui.</p>
+
+<button>Meu Botão</button></textarea>
+
+        </div>
+
+        <div class="editor">
+
+            <div class="editor-title">
+                CSS
+            </div>
+
+            <textarea id="cssCode">body{
+    font-family:Arial;
+    text-align:center;
+    padding:40px;
+    background:#f1f5f9;
+}
+
+h1{
+    color:#2563eb;
+}
+
+button{
+    padding:12px 20px;
+    border:none;
+    background:#2563eb;
+    color:white;
+    border-radius:10px;
+}</textarea>
+
+        </div>
+
+    </div>
+
+    <!-- PREVIEW -->
+
+    <div class="preview">
+
+        <div class="preview-title">
+            🌎 Preview do Site
+        </div>
+
+        <iframe id="preview"></iframe>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
