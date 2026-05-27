@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Site Builder Pro</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,sans-serif;
+}
+
+body{
+    background:#0f172a;
+    color:white;
+    display:flex;
+    height:100vh;
+    overflow:hidden;
+}
+
+.sidebar{
+    width:340px;
+    background:#111827;
+    padding:20px;
+    overflow-y:auto;
+    border-right:1px solid rgba(255,255,255,.08);
+}
+
+.sidebar-title{
+    font-size:24px;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.search{
+    width:100%;
+    padding:16px 18px;
+    border:none;
+    border-radius:16px;
+    background:rgba(255,255,255,.06);
+    color:white;
+    margin-bottom:22px;
+    outline:none;
+    font-size:15px;
+    border:1px solid rgba(255,255,255,.08);
+    transition:.3s;
+}
+
+.search:focus{
+    border-color:#3b82f6;
+    box-shadow:0 0 0 4px rgba(59,130,246,.15);
+    background:rgba(255,255,255,.08);
+}
+
+.search::placeholder{
+    color:#94a3b8;
+}
+
+.command-card{
+    background:#1e293b;
+    padding:15px;
+    border-radius:14px;
+    margin-bottom:12px;
+}
+
+.command-card h3{
+    color:#60a5fa;
+    margin-bottom:8px;
+}
+
+.command-card p{
+    color:#cbd5e1;
+    margin-bottom:10px;
+}
+
+.command-card code{
+    display:block;
+    background:#0f172a;
+    padding:10px;
+    border-radius:8px;
+    overflow:auto;
+}
+
+.main{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+}
+
+.download-panel{
+    background:#1e293b;
+    padding:15px;
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.download-panel h3{
+    margin-bottom:10px;
+}
+
+.download-panel input{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+    background:#0f172a;
+    color:white;
+    margin-bottom:10px;
+}
+
+.download-buttons{
+    display:flex;
+    gap:10px;
+}
+
+.download-buttons button{
+    flex:1;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+    background:#2563eb;
+    color:white;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.download-buttons button:hover{
+    background:#1d4ed8;
+}
+
+.top{
+    display:flex;
+    height:50%;
+}
+
+.editor{
+    flex:1;
+    display:flex;
+    flex-direction:column;
+    border-right:1px solid rgba(255,255,255,.08);
+}
+
+.editor-title{
+    background:#1e293b;
+    padding:12px;
+    font-weight:bold;
+}
+
+textarea{
+    flex:1;
+    resize:none;
+    border:none;
+    outline:none;
+    padding:15px;
+    background:#020617;
+    color:white;
+    font-family:Consolas, monospace;
+    font-size:14px;
+}
+
+.preview{
+    flex:1;
+    background:white;
+}
+
+iframe{
+    width:100%;
+    height:100%;
+    border:none;
+}
+
+.run-btn{
+    position:absolute;
+    top:15px;
+    right:20px;
+    padding:12px 20px;
+    border:none;
+    border-radius:10px;
+    background:#2563eb;
+    color:white;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.run-btn:hover{
+    background:#1d4ed8;
+}
+</style>
+</head>
+<body>
+
+<aside class="sidebar">
+
+    <div class="sidebar-title">
+        📚 Biblioteca HTML & CSS
+    </div>
+
+    <input
+        class="search"
+        id="searchInput"
+        placeholder="Pesquisar comando..."
+    >
+
+    <div id="commandsContainer"></div>
+
+</aside>
+
+<div class="main">
+
+    <button class="run-btn" onclick="runCode()">
+        ▶ Executar
+    </button>
+
+    <div class="download-panel">
+
+        <h3>📥 Download do Projeto</h3>
+
+        <input
+            type="text"
+            id="projectName"
+            placeholder="Nome do projeto"
+            value="meu-site"
+        >
+
+        <div class="download-buttons">
+
+            <button onclick="downloadHTML()">
+                Baixar HTML
+            </button>
+
+            <button onclick="downloadCSS()">
+                Baixar CSS
+            </button>
+
+            <button onclick="downloadCompleteProject()">
+                Projeto Completo
+            </button>
+
+        </div>
+
+    </div>
+
+    <div class="top">
+
+        <div class="editor">
+
+            <div class="editor-title">
+                HTML
+            </div>
+
+            <textarea id="htmlCode"><h1>Olá Mundo</h1>
+<p>Seu site aparece aqui.</p></textarea>
+
+        </div>
+
+        <div class="editor">
+
+            <div class="editor-title">
+                CSS
+            </div>
+
+            <textarea id="cssCode">body{
+    font-family:Arial;
+    text-align:center;
+    padding:40px;
+}
+
+h1{
+    color:#2563eb;
+}</textarea>
+
+        </div>
+
+    </div>
+
+    <div class="preview">
+        <iframe id="preview"></iframe>
+    </div>
+
+</div>
+
+<script>
+
+const commands = [
+
+{
+title:"<div>",
+desc:"Cria divisões/blocos no site.",
+code:"<div></div>"
+},
+
+{
+title:"<h1>",
+desc:"Cria título principal.",
+code:"<h1>Título</h1>"
+},
+
+{
+title:"<h2>",
+desc:"Cria subtítulo.",
+code:"<h2>Subtítulo</h2>"
+},
+
+{
+title:"<p>",
+desc:"Cria parágrafo.",
+code:"<p>Texto</p>"
+},
+
+{
+title:"<img>",
+desc:"Adiciona imagem.",
+code:'<img src="">'
+},
+
+{
+title:"<button>",
+desc:"Cria botão.",
+code:"<button>Clique</button>"
+},
+
+{
+title:"<a>",
+desc:"Cria link.",
+code:'<a href="">Link</a>'
+},
+
+{
+title:"display:flex",
+desc:"Alinha elementos lado a lado.",
+code:"display:flex;"
+},
+
+{
+title:"justify-content",
+desc:"Alinhamento horizontal.",
+code:"justify-content:center;"
+},
+
+{
+title:"align-items",
+desc:"Alinhamento vertical.",
+code:"align-items:center;"
+},
+
+{
+title:"background",
+desc:"Define fundo.",
+code:"background:black;"
+},
+
+{
+title:"color",
+desc:"Cor do texto.",
+code:"color:white;"
+},
+
+{
+title:"border-radius",
+desc:"Arredonda cantos.",
+code:"border-radius:20px;"
+},
+
+{
+title:"box-shadow",
+desc:"Adiciona sombra.",
+code:"box-shadow:0 0 20px black;"
+},
+
+{
+title:"padding",
+desc:"Espaçamento interno.",
+code:"padding:20px;"
+},
+
+{
+title:"margin",
+desc:"Espaçamento externo.",
+code:"margin:20px;"
+},
+
+{
+title:"font-size",
+desc:"Tamanho do texto.",
+code:"font-size:20px;"
+},
+
+{
+title:"width",
+desc:"Largura.",
+code:"width:300px;"
+},
+
+{
+title:"height",
+desc:"Altura.",
+code:"height:300px;"
+}
+
+];
+
+const commandsContainer =
+document.getElementById("commandsContainer");
+
+const searchInput =
+document.getElementById("searchInput");
+
+function renderCommands(filter=""){
+
+commandsContainer.innerHTML="";
+
+const filtered = commands.filter(cmd =>
+cmd.title.toLowerCase()
+.includes(filter.toLowerCase())
+);
+
+if(filtered.length===0){
+
+commandsContainer.innerHTML=
+"<p style='text-align:center;color:#94a3b8'>Nenhum comando encontrado.</p>";
+
+return;
+
+}
+
+filtered.forEach(cmd=>{
+
+commandsContainer.innerHTML+=`
+
+<div class="command-card">
+
+<h3>${cmd.title}</h3>
+
+<p>${cmd.desc}</p>
+
+<code>${cmd.code}</code>
+
+</div>
+
+`;
+
+});
+
+}
+
+searchInput.addEventListener("input",(e)=>{
+
+renderCommands(e.target.value);
+
+});
+
+renderCommands();
+
+function runCode(){
+
+const html =
+document.getElementById("htmlCode").value;
+
+const css =
+document.getElementById("cssCode").value;
+
+document.getElementById("preview").srcdoc = `
+<style>
+${css}
+</style>
+
+${html}
+`;
+
+}
+
+function downloadFile(filename, content){
+
+const blob = new Blob(
+[content],
+{type:"text/plain"}
+);
+
+const a =
+document.createElement("a");
+
+a.href =
+URL.createObjectURL(blob);
+
+a.download = filename;
+
+a.click();
+
+URL.revokeObjectURL(a.href);
+
+}
+
+function downloadHTML(){
+
+const name =
+document.getElementById("projectName")
+.value.trim() || "site";
+
+const html =
+document.getElementById("htmlCode")
+.value;
+
+downloadFile(
+`${name}.html`,
+html
+);
+
+}
+
+function downloadCSS(){
+
+const name =
+document.getElementById("projectName")
+.value.trim() || "site";
+
+const css =
+document.getElementById("cssCode")
+.value;
+
+downloadFile(
+`${name}.css`,
+css
+);
+
+}
+
+function downloadCompleteProject(){
+
+const name =
+document.getElementById("projectName")
+.value.trim() || "site";
+
+const html =
+document.getElementById("htmlCode")
+.value;
+
+const css =
+document.getElementById("cssCode")
+.value;
+
+const project = `
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>${name}</title>
+
+<style>
+${css}
+</style>
+
+</head>
+<body>
+
+${html}
+
+</body>
+</html>
+`;
+
+downloadFile(
+`${name}.html`,
+project
+);
+
+}
+
+runCode();
+
+document
+.getElementById("htmlCode")
+.addEventListener("input",runCode);
+
+document
+.getElementById("cssCode")
+.addEventListener("input",runCode);
+
+</script>
+
+</body>
+</html>
