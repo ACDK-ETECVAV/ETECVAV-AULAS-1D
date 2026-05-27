@@ -1,4 +1,4 @@
-# 💻 Site Profissões - Engenheiro de Dados
+# 💻 Conheça mais sobre o nosso Grupo ACDK | INFONET!
 
 ![Status](https://img.shields.io/badge/status-%20Mentalizando-yellow)
 ![Curso](https://img.shields.io/badge/curso-INFONET-blue)
@@ -44,6 +44,27 @@
 | GIMP-Degradê | Fazer 3 | Arte Digital | Está no TEAMS | 21/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-AC-1) | [TRABALHANDO](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-DK-1) |
 | Portifolio | Realizar um Portifolio para cada membros do grupo ACDK. Montando também uma descrição de cada membro. | PTIC | [Local do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes) | 26/05/2026 | [TRABALHANDO](k) | [TRABALHANDO](k) |
 | Copa do Mundo | Utilizando o GIMP façam um cartaz sobre a Copa do Mundo. A imagem deve estar na orientação paisagem com resolução fullHD (1920px x 1080px) e devem ser utilizados os conceitos trabalhados até o momento. A atividade deve ser feita em dupla e a entrega deve ser no formato PNG. Os nomes dos alunos devem estar no canto inferior direito da imagem. | Arte Digital | Está no TEAMS | 29/05/2026 | [TRABALHANDO](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-AC) | [TRABALHANDO](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-DK) |
-| N | k | Banco de Dados | Está no TEAMS | 11/06/2026 | [PENDENTE](K) | [PENDENTE](K) |
+| Elaboração de Infográfico | Instruções
+Objetivo
+Levar o estudante a compreender, organizar e comunicar de forma visual os conceitos fundamentais da normalização de dados, com foco na Primeira, Segunda e Terceira Formas Normais.
+
+Descrição da atividade
+Os alunos deverão trabalhar individualmente ou em dupla para produzir um infográfico digital que explique de maneira clara e objetiva as três formas normais.
+O infográfico deve ser autoexplicativo, ou seja, qualquer pessoa com conhecimento básico na área deve conseguir entender o conteúdo sem necessidade de explicações adicionais
+
+Etapas
+1. Desenvolver o infográfico contendo:
+   Definição de cada forma normal (Primeira Forma Normal (1FN), Segunda Forma Normal (2FN) e Terceira Forma Normal (3FN))
+   Exemplos práticos com tabelas antes e depois da normalização
+   Ilustrações ou esquemas que facilitem o entendimento
+   Comparação entre as três formas normais
+
+2. Organizar o conteúdo de forma visualmente atrativa, priorizando clareza e síntese.
+
+Ferramentas sugeridas
+Pode-se utilizar ferramentas digitais como Canva, PowerPoint ou outras plataformas de design gráfico.
+
+Formato de entrega
+Arquivo em PDF, enviado pelo teams. | Banco de Dados | Está no TEAMS | 11/06/2026 | [PENDENTE](K) | [PENDENTE](K) |
 
 ---
