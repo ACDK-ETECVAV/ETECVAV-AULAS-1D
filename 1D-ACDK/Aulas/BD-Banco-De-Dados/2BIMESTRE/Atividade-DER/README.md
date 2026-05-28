@@ -3,14 +3,16 @@
 Passe para o BrModelo os DER já resolvidos.
 Copie o DER e cole em um único arquivo word, colocar nome da dupla no cabeçalho.
 
-Floricultura
-Biblioteca
-Escola
-Pousada
-Firma
-Concessionária
-Empresa de Engenharia
-Hotel
+---
+
+#Floricultura
+#Biblioteca
+#Escola
+#Pousada
+#Firma
+#Concessionária
+#Empresa de Engenharia
+#Hotel
 
 
 
