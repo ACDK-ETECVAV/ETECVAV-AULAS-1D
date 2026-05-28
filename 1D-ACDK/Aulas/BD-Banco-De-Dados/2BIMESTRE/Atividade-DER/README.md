@@ -1,5 +1,19 @@
 ## Exercícios de DER
 
+Passe para o BrModelo os DER já resolvidos.
+Copie o DER e cole em um único arquivo word, colocar nome da dupla no cabeçalho.
+
+Floricultura
+Biblioteca
+Escola
+Pousada
+Firma
+Concessionária
+Empresa de Engenharia
+Hotel
+
+
+
 Data de conclusão 12 de maio de 2026 às 23:59 Fecha 12 de maio de 2026 às 23:59 Instruções Desenvolva os DER para os enunciados abaixo. Atividade em dupla. Digitalize de forma clara e legível os DER, cole no word e envie em formato docx ou pdf com nome da dupla.
 
 1-)Em uma concessionária são cadastrados cada um dos carros. Para estes são armazenados: número de chassi, placa, marca, modelo, ano e cor. Cada carro é fornecido por uma montadora. Das montadoras são armazenados CNPJ, Nome, endereço e telefone. Para os clientes é cadastrado RG, nome, telefone e endereço. Clientes podem estar cadastrados sem que tenham realizado uma compra. Eventualmente quando fizeram um orçamento ou teste, seus dados foram pedidos. Para cada venda de carro é registrado um número de nota fiscal, o valor total de venda assim como a forma de pagamento. Cada venda é realizada por um vendedor para o qual é registrado RG, nome, anos de experiência e telefone.
