@@ -11,7 +11,7 @@
 |---|---|---|
 | 🧑🏻 Anthony Muraro | Desenvolvedor Ajudante | HTML / CSS |
 | 👱🏻 Calebe Barros Ramalho da Silva | Organização e Geral | GitHub |
-| 🧢 Daniel Teixeira Vitoriano | Pesquisador | GIMP / CSS |
+| 🧢 Daniel Teixeira Vitoriano | Pesquisador | IA / Chat |
 | 🍰 Kelven Chetz Man Gallippi | Ajudante Geral | Documentação |
 
 ---
