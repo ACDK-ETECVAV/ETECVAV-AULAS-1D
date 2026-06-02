@@ -1,5 +1,5 @@
 ## Link para o Perfil do grupo ACDK | INFONET
 
-[Perfil do Grupo](https://github.com/daniel160910)
+[Perfil do Grupo](https://github.com/ACDK-ETECVAV)
 
 ---
