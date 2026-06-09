@@ -41,8 +41,7 @@ depois eu faço
 ```
 
 ---
- | Atividade | Matéria | Local Do Arquivo | Data De Entrega | Dupla 1 | Dupla 2|
-|---|---|---|-
+
 ## 📅 Trabalhos (2-BIMESTRE) ![Status](https://img.shields.io/badge/status-%20PENDENTES-yellow)
 
 | Trabalho | Atividade | Matéria | Local Do Arquivo | Data De Entrega | Dupla 1 | Dupla 2|
