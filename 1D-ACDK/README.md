@@ -34,10 +34,18 @@
 
 ---
 
+##Legenda:
+
+```yaml
+depois eu faço
+```
+
+---
+ | Atividade | Matéria | Local Do Arquivo | Data De Entrega | Dupla 1 | Dupla 2|
+|---|---|---|-
 ## 📅 Trabalhos (2-BIMESTRE) ![Status](https://img.shields.io/badge/status-%20PENDENTES-yellow)
 
-| Trabalho | Atividade | Matéria | Local Do Arquivo | Data De Entrega | Dupla 1 | Dupla 2|
-|---|---|---|---|---|---|---|
+| Trabalho--|---|---|---|
 | CSS | Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código | Interface Web | [Local Do Arquivo](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/01-EtecVAV/1D/IW-interface-web/2BIM/README.md) | 05/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/AC-CSS) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/DK-CSS) |
 | Profissões | Desenvolver um site informativo sobre uma profissão da área de informática, aplicando conceitos de HTML e CSS. | Interface Web | [Local Do Arquivo](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | 02/06/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/AC-Profissoes) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/DK-Profissoes) |
 | DER | Digitalizar os DERs para o brModelo | Banco De Dados | [Local Do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER) | 12/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/AC-DER) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/DK-DER) |
@@ -47,5 +55,6 @@
 | Elaboração de Infográfico | Os alunos deverão trabalhar individualmente ou em dupla para produzir um infográfico digital que explique de maneira clara e objetiva as três formas normais. | Banco de Dados | Está no TEAMS | 11/06/2026 | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-AC) | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-DK) |
 | C++ | Desafio em C++ | Programação e Algoritmo | [Local do Arquivo](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/PA-programacao-e-algoritmo/2BIM) | 19/06/2026	| [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-AC) | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-DK) |
 | Desafio C++ | Realizar a olimpiada de Informática | Programação e Algoritmo | [Local do Arquivo](https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/tempo/) | 19/06/2026 | [TRABALHANDO](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/AC-OLIMPIADA) | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/DK-OLIMPIADA) |
+| Construção do Portifólio | Realizar os cursos relativos a cada disciplina e igualmente postar o certificado no repositório referente a disciplina correspondente no Github | PTIC | [Local do Arquivo](k) | 26/06/2026 | [PENDENTE](K) | [PENDENTE](K) |
 
 ---
