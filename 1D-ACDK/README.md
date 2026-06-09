@@ -34,7 +34,7 @@
 
 ---
 
-## Legenda:
+## ⚙️ Legenda:
 
 ```yaml
 
