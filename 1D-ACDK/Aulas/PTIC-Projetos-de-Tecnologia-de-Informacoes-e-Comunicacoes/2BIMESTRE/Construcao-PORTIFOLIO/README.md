@@ -2,6 +2,10 @@
 
 Realizar os cursos relativos a cada disciplina e igualmente postar o certificado no repositório referente a disciplina correspondente no Github
 
+## Entrega:
+
+Postar o link do github com os documentos acrescidos.
+
 ## Instruções:
 
 # Projetos de Tecnologia da Informação e Comunicação
