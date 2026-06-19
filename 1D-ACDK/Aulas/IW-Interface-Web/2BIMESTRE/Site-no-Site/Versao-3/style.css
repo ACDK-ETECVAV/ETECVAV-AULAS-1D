@@ -1,0 +1,367 @@
+/* ========================= */
+/* style.css */
+/* ========================= */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI,sans-serif;
+}
+
+body{
+    background:#0f172a;
+    color:white;
+    display:flex;
+    height:100vh;
+
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+
+/* ========================= */
+/* SCROLLBAR */
+/* ========================= */
+
+::-webkit-scrollbar{
+    width:12px;
+}
+
+::-webkit-scrollbar-track{
+    background:#0f172a;
+}
+
+::-webkit-scrollbar-thumb{
+    background:linear-gradient(
+        180deg,
+        #3b82f6,
+        #2563eb
+    );
+
+    border-radius:20px;
+    border:2px solid #0f172a;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background:linear-gradient(
+        180deg,
+        #60a5fa,
+        #3b82f6
+    );
+}
+
+/* ========================= */
+/* SIDEBAR */
+/* ========================= */
+
+.sidebar{
+    width:340px;
+    background:#111827;
+    padding:20px;
+
+    overflow-y:auto;
+    overflow-x:hidden;
+
+    border-right:1px solid rgba(255,255,255,.08);
+}
+
+.sidebar-title{
+    font-size:24px;
+    font-weight:700;
+    margin-bottom:20px;
+}
+
+.search{
+    width:100%;
+
+    padding:16px 18px;
+
+    border:none;
+    border-radius:16px;
+
+    background:rgba(255,255,255,.06);
+
+    color:white;
+
+    margin-bottom:22px;
+
+    outline:none;
+
+    font-size:15px;
+
+    border:1px solid rgba(255,255,255,.08);
+
+    transition:.3s;
+}
+
+.search:focus{
+    border-color:#3b82f6;
+
+    box-shadow:0 0 0 4px rgba(59,130,246,.15);
+
+    background:rgba(255,255,255,.08);
+}
+
+.search::placeholder{
+    color:#94a3b8;
+}
+
+.command-card{
+    background:#1e293b;
+
+    padding:15px;
+
+    border-radius:14px;
+
+    margin-bottom:12px;
+
+    transition:.25s;
+}
+
+.command-card:hover{
+    transform:translateY(-2px);
+
+    background:#263447;
+}
+
+.command-card h3{
+    color:#60a5fa;
+    margin-bottom:8px;
+}
+
+.command-card p{
+    color:#cbd5e1;
+    margin-bottom:10px;
+}
+
+.command-card code{
+    display:block;
+
+    background:#0f172a;
+
+    padding:10px;
+
+    border-radius:8px;
+
+    overflow:auto;
+
+    color:#93c5fd;
+}
+
+/* ========================= */
+/* MAIN */
+/* ========================= */
+
+.main{
+    flex:1;
+
+    display:flex;
+    flex-direction:column;
+
+    min-height:100vh;
+}
+
+/* ========================= */
+/* TOPBAR */
+/* ========================= */
+
+.topbar{
+    display:flex;
+    justify-content:flex-end;
+
+    padding:15px 20px;
+
+    background:#111827;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.run-btn{
+    padding:12px 20px;
+
+    border:none;
+    border-radius:10px;
+
+    background:#2563eb;
+
+    color:white;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+    transition:.25s;
+}
+
+.run-btn:hover{
+    background:#1d4ed8;
+    transform:scale(1.03);
+}
+
+/* ========================= */
+/* DOWNLOAD */
+/* ========================= */
+
+.download-panel{
+    background:#1e293b;
+
+    padding:15px;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.download-panel h3{
+    margin-bottom:10px;
+}
+
+.download-panel input{
+    width:100%;
+
+    padding:12px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#0f172a;
+
+    color:white;
+
+    margin-bottom:10px;
+
+    outline:none;
+}
+
+.download-buttons{
+    display:flex;
+    gap:10px;
+}
+
+.download-buttons button{
+    flex:1;
+
+    padding:12px;
+
+    border:none;
+
+    border-radius:10px;
+
+    background:#2563eb;
+
+    color:white;
+
+    cursor:pointer;
+
+    font-weight:bold;
+
+    transition:.25s;
+}
+
+.download-buttons button:hover{
+    background:#1d4ed8;
+}
+
+/* ========================= */
+/* EDITORES */
+/* ========================= */
+
+.editor-area{
+    display:flex;
+
+    min-height:400px;
+}
+
+.editor{
+    flex:1;
+
+    display:flex;
+    flex-direction:column;
+
+    border-right:1px solid rgba(255,255,255,.08);
+}
+
+.editor:last-child{
+    border-right:none;
+}
+
+.editor-title{
+    background:#1e293b;
+
+    padding:12px;
+
+    font-weight:bold;
+}
+
+textarea{
+    flex:1;
+
+    resize:none;
+
+    border:none;
+
+    outline:none;
+
+    padding:15px;
+
+    background:#020617;
+
+    color:white;
+
+    font-family:Consolas, monospace;
+
+    font-size:14px;
+
+    min-height:300px;
+}
+
+/* ========================= */
+/* PREVIEW */
+/* ========================= */
+
+.preview{
+    flex:1;
+
+    background:white;
+
+    display:flex;
+    flex-direction:column;
+
+    min-height:500px;
+}
+
+.preview-title{
+    background:#1e293b;
+
+    padding:12px;
+
+    font-weight:bold;
+}
+
+iframe{
+    width:100%;
+    height:100%;
+    border:none;
+
+    background:white;
+}
+
+/* ========================= */
+/* RESPONSIVO */
+/* ========================= */
+
+@media(max-width:1000px){
+
+    body{
+        flex-direction:column;
+    }
+
+    .sidebar{
+        width:100%;
+        max-height:300px;
+    }
+
+    .editor-area{
+        flex-direction:column;
+    }
+
+}
