@@ -92,4 +92,3 @@ criando projetos cada vez mais completos e acompanhando as tecnologias mais atua
     style="display:block;"
   />
 </p>
-```
