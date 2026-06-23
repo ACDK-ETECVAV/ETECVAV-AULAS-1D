@@ -60,6 +60,7 @@ hobbies:
     "Esportes",
     "Desenvolvimento de Projetos",
   ]
+```
 
 ---
 
