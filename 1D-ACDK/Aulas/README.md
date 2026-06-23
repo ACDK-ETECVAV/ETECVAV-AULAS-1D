@@ -70,18 +70,20 @@ hobbies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-</p>---
+</p>
 
 <h2 align="center"> 🎯 Objetivos </h2><p align="center">
 Busco evoluir constantemente como desenvolvedor, adquirindo novos conhecimentos,
 criando projetos cada vez mais completos e acompanhando as tecnologias mais atuais.
-</p>---
+</p>
+
+---
 
 <h2 align="center"> 🌐 Contato </h2><p align="center"><a href="https://github.com/SEU-USUARIO">
   <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a><a href="mailto:SEUEMAIL@EMAIL.COM">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a></p>---
+</a></p>
 
 <p align="center">
   <img 
