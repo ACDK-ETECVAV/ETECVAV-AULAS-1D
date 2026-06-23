@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  👋 Olá, eu sou o Rômulo
+  👋 Eu sou o Rômulo
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWtsN3ZvazNhMDhkcHRqcDVnOG8xYmlkZWNiNm1uNjd4ZmE3cDlzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ivSCbBQjwLz7q/giphy.gif" width="35px">
 </h1>
 
@@ -75,10 +75,6 @@ hobbies:
 <h2 align="center"> 🎯 Objetivos </h2><p align="center">
 Busco evoluir constantemente como desenvolvedor, adquirindo novos conhecimentos,
 criando projetos cada vez mais completos e acompanhando as tecnologias mais atuais.
-</p>---
-
-<h2 align="center"> 🐍 Snake Game </h2><p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake-dark.svg">
 </p>---
 
 <h2 align="center"> 🌐 Contato </h2><p align="center"><a href="https://github.com/SEU-USUARIO">
