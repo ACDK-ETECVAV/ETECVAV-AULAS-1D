@@ -70,7 +70,7 @@
 
 
 Grupo A: Fazer um site sobre "computação em nuvem" usando o tipo que for pedido. 
-Grupo B: Fazer um site sobre " quântico" usando o tipo que for pedido.
+Grupo B: Fazer um site sobre "computação quântica" usando o tipo que for pedido.
 
 
 11/8 trabalho
