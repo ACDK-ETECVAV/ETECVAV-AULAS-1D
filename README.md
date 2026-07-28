@@ -1,4 +1,4 @@
-# 💻 Projeto INFONET - Tche tche
+# 💻 Projeto INFO - Tche tche 67
 
 ![Status](https://img.shields.io/badge/status-%20Mentalizando-yellow)
 ![Curso](https://img.shields.io/badge/curso-INFONET-blue)            
@@ -15,7 +15,7 @@ Veja todos os Trabalhos Pendentes e Realizados:
 - 🧑🏻 Anthony muraro
 - 👱🏻 Calebe Barros Ramalho da Silva  
 - 🧢 Daniel Teixeira Vitoriano  
-- 🍰 Kelven Chetz Man Gallippi  
+- 🍰 Kelven Chetz Man Gallippi  67
 
 ---
 
@@ -34,7 +34,8 @@ Escola Técnica Estadual Vasco Antônio Venchiarutti
 - 🖼️ Arte Digital
 - 🏦 Banco de Dados
 - 🌐 Interface Web  
-- 💡 Programação e Algoritmos  
+- 💡 Programação e Algoritmos
+- ptic 🫠
 
 ---
 
