@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Ferramentas%20e%20Tecnologias-Ver%20Documentação-blue?style=for-the-badge" alt="Tecnologias">">
+    <img src="https://img.shields.io/badge/Ferramentas%20e%20Tecnologias-Ver%20Documentação-blue?style=for-the-badge" alt="Tecnologias">
   </a>
 </p>
 
