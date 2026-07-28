@@ -93,8 +93,6 @@
 
 ---
 
-<div align="center">
-
 ## 🚧 Próximas Atividades
 
 | Disciplina | Atividade |
@@ -111,5 +109,3 @@
 📅 **22/09** — Portfólio
 
 📅 **29/09** — Recuperação
-
-</div>
