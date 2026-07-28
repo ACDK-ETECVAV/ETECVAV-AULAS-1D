@@ -2,16 +2,17 @@
 
 <p align="center">
   <a href="https://chatgpt.com/pt-BR/">
-    <img src="https://img.shields.io/badge/status-%20Mentalizando-yellow" alt="Status">
+    <img src="https://img.shields.io/badge/🟡%20Status-Mentalizando-FACC15?style=for-the-badge" alt="Status">
   </a>
 
   <a href="https://github.com/ACDK-ETECVAV">
-    <img src="https://img.shields.io/badge/curso-INFONET-blue" alt="Curso">
+    <img src="https://img.shields.io/badge/🎓%20Curso-INFONET-3B82F6?style=for-the-badge" alt="Curso">
   </a>
 
   <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Ferramentas%20e%20Tecnologias-Ver%20Documentação-blue?style=for-the-badge" alt="Tecnologias">
+    <img src="https://img.shields.io/badge/🛠️%20Tecnologias-Ver%20Documentação-22C55E?style=for-the-badge" alt="Tecnologias">
   </a>
+</p>
 </p>
 
 ---
