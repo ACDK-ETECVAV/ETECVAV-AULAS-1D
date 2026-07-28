@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/curso-INFONET-blue" alt="Curso">
   </a>
 
-  <a href="link de uma aba onde tenha um link para cada tecnologia">
-    <img src="https://img.shields.io/badge/tecnologias-CSS%20%7C%20HTML%20%7C%20Portugol%20%7C%20GIMP%20%7C%20Word%20%7C%20PowerPoint-green" alt="Tecnologias">
+  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Ferramentas%20e%20Tecnologias-Ver%20Documentação-blue?style=for-the-badge" alt="Tecnologias">">
   </a>
 </p>
 
