@@ -1,4 +1,4 @@
-<h1 align='center'>Sobre o Grupo ACDS | INFONET</h1>
+<h1 align='center'>Sobre o Grupo ACDK | INFONET</h1>
 
 <p align="center">
   <a href="https://chatgpt.com/pt-BR/">
