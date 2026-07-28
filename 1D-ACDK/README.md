@@ -1,78 +1,90 @@
-# 💻 Conheça mais sobre o nosso Grupo ACDK | INFONET!
+<h1 align='center'>Sobre o Grupo ACDS | INFONET</h1>
 
-![Status](https://img.shields.io/badge/status-%20Mentalizando-yellow)
-![Curso](https://img.shields.io/badge/curso-INFONET-blue)
-![Tecnologias](https://img.shields.io/badge/tecnologias-CSS%20%7C%20HTML%20%7C%20Portugol%20%7C%20GIMP%20%7C%20Word%20%7C%20PowerPoint-green)
----
+<p align="center">
+  <a href="https://chatgpt.com/pt-BR/">
+    <img src="https://img.shields.io/badge/status-%20Mentalizando-yellow" alt="Status">
+  </a>
 
-## 👨‍💻 Integrantes
+  <a href="https://github.com/ACDK-ETECVAV">
+    <img src="https://img.shields.io/badge/curso-INFONET-blue" alt="Curso">
+  </a>
 
-| Integrante | Função | Tecnologias |
-|---|---|---|
-| 🧑🏻 Anthony Piazzaroli Muraro | Desenvolvedor Ajudante | HTML / CSS |
-| 👱🏻 Calebe Barros Ramalho da Silva | Organização e Geral | GitHub |
-| 🧢 Daniel Teixeira Vitoriano | Pesquisador | IA / Chat |
-| 🍰 Kelven Chetz Man Gallippi | Ajudante Geral | Documentação |
-
----
-
-## 🗃️ Duplas Do Curso
-
-| Dupla 1 - Guris | Dupla 2 - Patrocinadores | 
-|---|---|
-| Anthony Piazzaroli Muraro | Daniel Teixeira Vitoriano |
-| Calebe Barros Ramalho Da Silva | Kelven Chetz Man Gallipi |
+  <a href="link de uma aba onde tenha um link para cada tecnologia">
+    <img src="https://img.shields.io/badge/tecnologias-CSS%20%7C%20HTML%20%7C%20Portugol%20%7C%20GIMP%20%7C%20Word%20%7C%20PowerPoint-green" alt="Tecnologias">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+<div align="center">
 
-- HTML5
-- CSS3
-- GIMP
-- GitHub
+| Integrante | Função | Tecnologias | Dupla |
+|:---:|:---:|:---:|:---:|
+| 🧑🏻 Anthony Piazzaroli Muraro | Desenvolvedor Ajudante | HTML / CSS | Guris |
+| 👱🏻 Calebe Barros Ramalho da Silva | Organização e Geral | GitHub | Guris |
+| 🧢 Daniel Teixeira Vitoriano | Pesquisador | IA / Chat | Patrocinadores |
+| 🍰 Kelven Chetz Man Gallippi | Ajudante Geral | Documentação | Patrocinadores |
 
----
-
-## ⚙️ Legenda:
-
-```yaml
-
-[
-  PENDENTE = "TRABALHO NÃO INICIADO / NÃO COMECOU"
-
-  TRABALHANDO = "O TRABALHO ESTÁ EM DESENVOLVIMENTO /  ESTÁ COMEÇANDO"
-
-  ENTREGUE = "TRABALHO ENTREGUE / ENVIADO"
-
-  NÃO ENTREGUE = "NÃO FINALIZADO / NÃO ENVIADO NO PRAZO DE ENTREGA"
-] 
-
-```
+</div>
 
 ---
 
-## 📅 Trabalhos (2-BIMESTRE) ![Status](https://img.shields.io/badge/status-%20PENDENTES-yellow)
+<div align="center">
 
-| Trabalho | Atividade | Matéria | Local Do Arquivo | Data De Entrega | Dupla 1 | Dupla 2|
-|---|---|---|---|---|---|---|
-| CSS | Assitir: [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4), fazer uma página explicado: O QUE É CSS? (SELETORES, PROPRIEDADES E VALORES), em dupla. Use CSS no Código | Interface Web | [Local Do Arquivo](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/01-EtecVAV/1D/IW-interface-web/2BIM/README.md) | 05/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/AC-CSS) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/DK-CSS) |
-| Profissões | Desenvolver um site informativo sobre uma profissão da área de informática, aplicando conceitos de HTML e CSS. | Interface Web | [Local Do Arquivo](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | 02/06/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/AC-Profissoes) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/DK-Profissoes) |
-| DER | Digitalizar os DERs para o brModelo | Banco De Dados | [Local Do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER) | 12/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/AC-DER) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/DK-DER) |
-| GIMP-Degradê | Fazer 3 | Arte Digital | Está no TEAMS | 21/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-AC-1) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-DK-1) |
-| Portifolio | Realizar um Portifolio para cada membros do grupo ACDK. Montando também uma descrição de cada membro. | PTIC | [Local do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL) | 26/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL/PORTIFOLIO-AC) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL/PORTIFOLIO-DK) |
-| Copa do Mundo | Utilizando o GIMP façam um cartaz sobre a Copa do Mundo. A imagem deve estar na orientação paisagem com resolução fullHD (1920px x 1080px) e devem ser utilizados os conceitos trabalhados até o momento. A atividade deve ser feita em dupla e a entrega deve ser no formato PNG. Os nomes dos alunos devem estar no canto inferior direito da imagem. | Arte Digital | Está no TEAMS | 29/05/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-AC) | [NÃO ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-DK) |
-| Elaboração de Infográfico | Os alunos deverão trabalhar individualmente ou em dupla para produzir um infográfico digital que explique de maneira clara e objetiva as três formas normais. | Banco de Dados | [Local do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico) | 11/06/2026 | [NÃO ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-AC) | [NÃO ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-DK) |
-| C++ | Desafio em C++ | Programação e Algoritmo | [Local do Arquivo](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/PA-programacao-e-algoritmo/2BIM) | 19/06/2026	| [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-AC) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-DK) |
-| Desafio C++ | Realizar a olimpiada de Informática | Programação e Algoritmo | [Local do Arquivo](https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/tempo/) | 19/06/2026 | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/AC-OLIMPIADA) | [PENDENTE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/DK-OLIMPIADA) |
-| Construção do Portifólio | Realizar os cursos relativos a cada disciplina e igualmente postar o certificado no repositório referente a disciplina correspondente no Github | PTIC | [Local do Arquivo](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO) | 26/06/2026 | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO/CONSTRUCAO-AC) | [ENTREGUE](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO/CONSTRUCAO-DK) |
+## ⚙️ Legenda
+
+🟡 **PENDENTE** → Trabalho ainda não iniciado.
+
+🔵 **TRABALHANDO** → Trabalho em desenvolvimento.
+
+🟢 **ENTREGUE** → Trabalho concluído e enviado.
+
+🔴 **NÃO ENTREGUE** → Trabalho não concluído ou não enviado no prazo.
+
+</div>
+
 ---
 
+<div align="center">
+  
+## 📅 Trabalhos • 2º Bimestre
 
-Grupo A: Fazer um site sobre "computação em nuvem" usando o tipo que for pedido. 
-Grupo B: Fazer um site sobre "computação quântica" usando o tipo que for pedido.
+![Status](https://img.shields.io/badge/Bimestre-Concluído-success)
 
+| Trabalho | Disciplina | 📄 Atividade | 📁 Arquivo | 📅 Entrega | 🟦 Guris | 🟨 Patrocinadores |
+|:---------:|:----------:|:------------:|:----------:|:----------:|:--------:|:----------------:|
+| CSS | IW | [Vídeo](https://www.youtube.com/watch?v=LWU2OR19ZG4) | [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/01-EtecVAV/1D/IW-interface-web/2BIM/README.md) | 05/05/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/AC-CSS) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/CSS-HTML/DK-CSS) |
+| Profissões | IW | [Ver](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | [Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/html-css/ACT-HTML-005-const-site-profissoes-informatica.md) | 02/06/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/AC-Profissoes) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/2BIMESTRE/Profissoes-HTML/DK-Profissoes) |
+| DER | BD | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER) | 12/05/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/AC-DER) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-DER/DK-DER) |
+| GIMP – Degradê | AD | Teams | Teams | 21/05/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-AC-1) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-ACDK/Atividade-DK-1) |
+| Portfólio | PTIC | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL) | 26/05/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL/PORTIFOLIO-AC) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Portifolio-PERFIL/PORTIFOLIO-DK) |
+| Copa do Mundo | AD | Teams | Teams | 29/05/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-AC) | [🔴](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/2BIMESTRE/GIMP-Copa-Do-Mundo/GIMP-DK) |
+| Infográfico | BD | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico) | 11/06/2026 | [🔴](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-AC) | [🔴](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/2BIMESTRE/Atividade-Infografico/Infografico-DK) |
+| C++ | PA | [Ver](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/PA-programacao-e-algoritmo/2BIM) | [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/PA-programacao-e-algoritmo/2BIM) | 19/06/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-AC) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-Atividade/CPP-DK) |
+| Desafio C++ | PA | [Ver](https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/tempo/) | [Abrir](https://olimpiada.ic.unicamp.br/pratique/p1/2021/f1/tempo/) | 19/06/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/AC-OLIMPIADA) | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/2BIMESTRE/CPP-OLIMPIADA/DK-OLIMPIADA) |
+| Construção do Portfólio | PTIC | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO) | 26/06/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO/CONSTRUCAO-AC) | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/2BIMESTRE/Construcao-PORTIFOLIO/CONSTRUCAO-DK) |
 
-11/8 trabalho
-22/9 portifolio
-29/9 recuperação
+</div>
+
+---
+
+<div align="center">
+
+## 🚧 Próximas Atividades
+
+| Disciplina | Atividade |
+|:----------:|:----------:|
+| Interface Web | Grupo A: Desenvolver um site sobre **Computação em Nuvem**. |
+| Interface Web | Grupo B: Desenvolver um site sobre **Computação Quântica**. |
+
+> ℹ️ **Status:** Aguardando mais informações (tipo de site e data de entrega).
+
+## 📌 Lembretes
+
+📅 **11/08** — Trabalho
+
+📅 **22/09** — Portfólio
+
+📅 **29/09** — Recuperação
+
+</div>
