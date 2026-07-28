@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/🎓%20Curso-INFONET-3B82F6?style=for-the-badge" alt="Curso">
   </a>
 
-  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/README.md">
+  <a href="https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/Recursos/README.md">
     <img src="https://img.shields.io/badge/🛠️%20Tecnologias-Ver%20Documentação-22C55E?style=for-the-badge" alt="Tecnologias">
   </a>
 </p>
