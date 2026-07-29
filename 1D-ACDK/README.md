@@ -79,7 +79,7 @@
 
 | Trabalho | Disciplina | 📄 Atividade | 📁 Arquivo | 📅 Entrega | 🟦 Guris | 🟨 Patrocinadores |
 |:---------:|:----------:|:------------:|:----------:|:----------:|:--------:|:----------------:|
-| Normalização | BD | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO) | — | 05/08/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO/AC-NORMALIZACAO) | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO/DI-NORMALIZACAO) |
+| Normalização | BD | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO/Recursos) | 05/08/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO/AC-NORMALIZACAO) | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Normalizacao-BRMODELO/DI-NORMALIZACAO) |
 | — | — | — | — | --/--/2026 | 🟡 | 🟡 |
 | — | — | — | — | --/--/2026 | 🟡 | 🟡 |
 | — | — | — | — | --/--/2026 | 🟡 | 🟡 |
