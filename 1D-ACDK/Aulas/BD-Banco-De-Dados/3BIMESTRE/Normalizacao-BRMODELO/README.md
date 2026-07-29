@@ -1,5 +1,4 @@
 ## Atividade:
----
 
 Aplicando os conceitos desenvolvidos em aula, crie o DER e posteriormente aplique as formas normais.  
 
