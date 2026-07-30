@@ -69,8 +69,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ## 📅 Trabalhos • 3º Bimestre
