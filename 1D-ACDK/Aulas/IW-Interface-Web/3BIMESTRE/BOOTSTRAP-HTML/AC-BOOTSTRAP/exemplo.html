@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplos | Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="img/icone.png">
+</head>
+
+<body class="bg-light">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="index.html">Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Início</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="exemplo.html">Exemplos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mt-5 mb-5">
+        <h2 class="fw-bold text-center mb-5 text-primary">Exemplos Práticos</h2>
+
+
+        <div class="Logo">
+            <img src="img/bootstrap-logo.png" alt="Bootstrap Logo" class="img-fluid d-block mx-auto mb-4"
+                style="max-width: 200px;">
+            <p class="text-center text-muted">O logo do Bootstrap é um "B" estilizado, representando a simplicidade e a
+                modernidade do framework.</p>
+        </div>
+
+        <div class="card shadow-sm mb-4 border-0">
+            <div class="card-header bg-white fw-bold">1. Botões Estilizados</div>
+            <div class="card-body row align-items-center">
+                <div class="col-md-6 border-end">
+                    <p class="text-muted small mb-2">Demonstração:</p>
+                    <button class="btn btn-primary">Salvar</button>
+                    <button class="btn btn-danger">Excluir</button>
+                    <button class="btn btn-success">Confirmar</button>
+                </div>
+                <div class="col-md-6 mt-3 mt-md-0">
+                    <p class="text-muted small mb-2">Código:</p>
+                    <pre class="bg-dark text-white p-3 rounded"><code>&lt;button class="btn btn-primary"&gt;Salvar&lt;/button&gt;
+&lt;button class="btn btn-danger"&gt;Excluir&lt;/button&gt;
+&lt;button class="btn btn-success"&gt;Confirmar&lt;/button&gt;</code></pre>
+                </div>
+            </div>
+        </div>
+
+        <div class="card shadow-sm mb-4 border-0">
+            <div class="card-header bg-white fw-bold">2. Alertas (Feedbacks)</div>
+            <div class="card-body row align-items-center">
+                <div class="col-md-6 border-end">
+                    <p class="text-muted small mb-2">Demonstração:</p>
+                    <div class="alert alert-success mb-0">Cadastro realizado com sucesso!</div>
+                </div>
+                <div class="col-md-6 mt-3 mt-md-0">
+                    <p class="text-muted small mb-2">Código:</p>
+                    <pre class="bg-dark text-white p-3 rounded"><code>&lt;div class="alert alert-success"&gt;
+  Cadastro realizado com sucesso!
+&lt;/div&gt;</code></pre>
+                </div>
+            </div>
+        </div>
+
+        <div class="card border-0 bg-primary text-white text-center shadow">
+            <h3 class="fw-bold mb-3">Quer ver mais componentes e comandos?</h3>
+            <a href="https://getbootstrap.com" target="_blank"
+                class="btn btn-light btn-lg text-primary fw-bold px-5 shadow-sm">
+                Acessar getbootstrap.com
+            </a>
+        </div>
+
+        <div class="text-center mt-5">
+            <a href="sobre.html" class="btn btn-outline-primary fw-bold px-4">Sobre Nós</a>
+        </div>
+
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

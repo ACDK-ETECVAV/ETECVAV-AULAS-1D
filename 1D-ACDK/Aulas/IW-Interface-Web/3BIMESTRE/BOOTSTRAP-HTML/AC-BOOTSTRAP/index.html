@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Início | Bootstrap</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" href="img/icone.png">
+
+</head>
+
+<body class="bg-light">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="index.html">Bootstrap</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link active" href="index.html">Início</a></li>
+                    <li class="nav-item"><a class="nav-link" href="exemplo.html">Exemplos</a></li>
+                    <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container text-center mt-4">
+        <img src="img/1.png" alt="Bootstrap Logo" class="img-fluid">
+    </div>
+
+    <div class="container mt-5">
+        <div class="card shadow-sm border-0 p-5 mb-5">
+            <h1 class="text-primary fw-bold mb-4">O que é Bootstrap?</h1>
+            <p class="fs-5">
+                O <strong>Bootstrap</strong> é um framework front-end gratuito e de código aberto utilizado para
+                desenvolver sites e aplicações web de forma rápida, organizada e responsiva.
+            </p>
+            <p class="text-secondary">
+                Ele fornece uma coleção de componentes prontos, estilos CSS e funcionalidades JavaScript que reduzem o
+                tempo de desenvolvimento e ajudam a manter um padrão visual. Sem ele, precisaríamos criar praticamente
+                todo o CSS do projeto do zero!
+            </p>
+            <p class="text-secondary">
+                Além disso, o Bootstrap oferece uma ampla gama de recursos que facilitam a criação de interfaces modernas e atraentes, sem a necessidade de escrever código complexo.
+            </p>
+
+            <div class="row mt-4">
+                <div class="col-md-6">
+                    <h4 class="text-dark"><i class="bi bi-check-circle text-success"></i>Algumas Vantagens</h4>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item bg-transparent">Desenvolvimento mais rápido</li>
+                        <li class="list-group-item bg-transparent">Layout responsivo (adapta ao celular, tablet, etc)
+                        </li>
+                        <li class="list-group-item bg-transparent">Grande quantidade de componentes prontos</li>
+                        <li class="list-group-item bg-transparent">Comunidade ativa e suporte</li>
+                        <li class="list-group-item bg-transparent">Compatibilidade com navegadores modernos</li>
+                    </ul>
+                </div>
+                <div class="col-md-6 mt-3 mt-md-0">
+                    <div class="p-3 bg-dark text-white rounded">
+                        <h5 class="text-info">O que é ser "Responsivo"?</h5>
+                        <p>Significa que o site se adapta automaticamente conforme o tamanho da tela,
+                            utilizando um sistema chamado <strong>Grid System</strong>, baseado em 12 colunas.</p>
+                            <p>
+                                Finalmente, o Bootstrap é uma ferramenta essencial para desenvolvedores web que desejam criar 
+                                sites e aplicações de alta qualidade de forma eficiente e com um design consistente.
+                            </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mb-5 text-center">
+        <h2 class="fw-bold mb-3">Quer ver na prática?</h2>
+        <p class="text-muted mb-4">Separamos uma página só com demonstrações de códigos e componentes reais.</p>
+        <a href="exemplo.html" class="btn btn-primary btn-lg px-5 shadow">Ver Exemplos Práticos</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
