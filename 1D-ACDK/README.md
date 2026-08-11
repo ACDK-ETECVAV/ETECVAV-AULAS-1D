@@ -81,13 +81,12 @@
 | GIMP e Canva | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Comparativo-G-C) | 30/07/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Comparativo-G-C/AC-COMPARATIVO) | [🟡](link) |
 | GIF | AD | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/GIF-GIMP/README.md) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/GIF-GIMP) | 13/08/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/GIF-GIMP/AC-GIF) | [🔵](link) |
 | BOOTSTRAP | IW | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/BOOTSTRAP-HTML/README.md) | [Abrir](https://github.com/Zaion-Alaric-Zanarelli/zaion-web-studio/blob/main/activities/bootstrap/projeto-bootstrap-python.zip) | 11/08/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/BOOTSTRAP-HTML/AC-BOOTSTRAP) | [🟡](Link) |
+| Const. Site | IW | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/Const-Site-HTML/README.md) | [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/IW-interface-web/3BIM) | 01/09/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/Const-Site-HTML/AC-CONST-SITE) | [🟡](Link) |
+| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | 11/08/2026 | [🟡](Link) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-
 </div>
 
 ---
