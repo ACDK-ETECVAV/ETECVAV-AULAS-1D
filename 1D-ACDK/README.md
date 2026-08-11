@@ -91,15 +91,6 @@
 
 ---
 
-## 🚧 Próximas Atividades
-
-| Disciplina | Atividade |
-|:----------:|:----------:|
-| Interface Web | Grupo A: Desenvolver um site sobre **Computação em Nuvem**. |
-| Interface Web | Grupo B: Desenvolver um site sobre **Computação Quântica**. |
-
-> ℹ️ **Status:** Aguardando mais informações (tipo de site e data de entrega).
-
 ## 📌 Lembretes
 
 📅 **11/08** — Trabalho
