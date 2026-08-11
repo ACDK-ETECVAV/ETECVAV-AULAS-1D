@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Hero */
+
+.hero {
+    background: linear-gradient(
+        135deg,
+        #f8f9fa,
+        #e9f2ff
+    );
+}
+
+.min-vh-75 {
+    min-height: 75vh;
+}
+
+.bootstrap-icon {
+    font-size: 100px;
+    color: #7952b3;
+}
+
+
+/* Cards */
+
+.recurso-card {
+    transition: 0.3s;
+}
+
+.recurso-card:hover {
+    transform: translateY(-8px);
+}
+
+
+/* Ícones */
+
+.icon-box {
+    width: 60px;
+    height: 60px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 12px;
+
+    font-size: 28px;
+}
+
+
+/* Grid */
+
+.grid-demo {
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+
+/* Contato */
+
+.contact-section {
+    background: #f8f9fa;
+}
+
+
+/* Footer */
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    opacity: 0.7;
+}
