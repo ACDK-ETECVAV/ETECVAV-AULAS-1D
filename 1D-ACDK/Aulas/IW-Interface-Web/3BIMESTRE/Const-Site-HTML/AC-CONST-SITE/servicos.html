@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Computação em Nuvem - Tipos de Serviço</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Menu de navegação -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">☁ Nuvem Fácil</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="menu">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="index.html">Início</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="servicos.html">Tipos de Serviço</a></li>
+                    <li class="nav-item"><a class="nav-link" href="vantagens.html">Vantagens</a></li>
+                    <li class="nav-item"><a class="nav-link" href="sobre.html">Sobre</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Conteúdo principal -->
+    <main class="container my-5">
+        <h1 class="mb-4">Tipos de serviço na nuvem</h1>
+
+        <p>
+            Os serviços de nuvem costumam ser divididos em três tipos principais.
+            Uma forma fácil de entender é pensar em uma pizza: você pode fazer tudo
+            em casa, comprar a pizza congelada ou pedir pronta no restaurante.
+            Na nuvem é parecido, muda o quanto fica por sua conta e o quanto fica
+            por conta da empresa que oferece o serviço.
+        </p>
+
+        <div class="row mt-4">
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-header bg-primary text-white">
+                        IaaS
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Infraestrutura como Serviço</h5>
+                        <p class="card-text">
+                            A empresa aluga a estrutura básica: servidores, armazenamento
+                            e rede. O cliente instala e controla o que quiser em cima disso.
+                        </p>
+                        <p class="card-text"><small class="text-muted">Exemplos: Amazon EC2, Google Compute Engine</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-header bg-success text-white">
+                        PaaS
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Plataforma como Serviço</h5>
+                        <p class="card-text">
+                            Além da estrutura, o serviço já vem com um ambiente pronto
+                            para os programadores criarem seus aplicativos, sem se
+                            preocupar com os servidores.
+                        </p>
+                        <p class="card-text"><small class="text-muted">Exemplos: Heroku, Google App Engine</small></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-header bg-warning">
+                        SaaS
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Software como Serviço</h5>
+                        <p class="card-text">
+                            É o programa pronto, que a pessoa usa direto pela internet,
+                            geralmente pelo navegador, sem instalar nada.
+                        </p>
+                        <p class="card-text"><small class="text-muted">Exemplos: Gmail, Google Docs, Netflix</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h2 class="mt-4">Comparando os três tipos</h2>
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered mt-3">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Tipo</th>
+                        <th>O que a empresa cuida</th>
+                        <th>O que o cliente cuida</th>
+                        <th>Para quem serve</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>IaaS</td>
+                        <td>Equipamentos e rede</td>
+                        <td>Sistema, programas e dados</td>
+                        <td>Equipes de TI</td>
+                    </tr>
+                    <tr>
+                        <td>PaaS</td>
+                        <td>Equipamentos e ambiente de desenvolvimento</td>
+                        <td>Aplicativos e dados</td>
+                        <td>Programadores</td>
+                    </tr>
+                    <tr>
+                        <td>SaaS</td>
+                        <td>Praticamente tudo</td>
+                        <td>Apenas usar o programa</td>
+                        <td>Usuário comum</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <!-- Rodapé -->
+    <footer class="bg-dark text-white text-center py-3">
+        <p class="mb-0">Trabalho escolar - Grupo A - Computação em Nuvem</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
