@@ -19,3 +19,24 @@ footer p {
 .card:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
+
+@media (max-width: 991px) {
+    .navbar-collapse {
+        display: block !important;
+    }
+
+    .navbar-nav {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .navbar-nav .nav-item {
+        width: 100%;
+    }
+
+    .navbar-nav .nav-link {
+        display: block;
+        padding: 10px 0;
+    }
+}
