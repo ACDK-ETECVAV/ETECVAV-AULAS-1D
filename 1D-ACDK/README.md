@@ -93,8 +93,4 @@
 
 ## 📌 Lembretes
 
-📅 **11/08** — Trabalho
-
-📅 **22/09** — Portfólio
-
 📅 **29/09** — Recuperação
