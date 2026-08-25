@@ -84,7 +84,7 @@
 | Const. Site | IW | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/Const-Site-HTML/README.md) | [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/IW-interface-web/3BIM) | 01/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/Const-Site-HTML/AC-CONST-SITE) | [🟡](Link) |
 | FN | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/NORMALIZACAO-FN/Lista%20de%20Exerc%C3%ADcios%20Mapeamento%20.docx) | 21/08/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/NORMALIZACAO-FN/AC-FN) | [🟡](Link) |
 | PYTHON | PA | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/3BIMESTRE/LE-PYTHON/README.md) | [Abrir](https://github.com/ronildo-ferreira/ronildo-human-layer/tree/main/01-EtecVAV/1D/PA-programacao-e-algoritmo/3BIM) | 28/08/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/3BIMESTRE/LE-PYTHON/AC-PYTHON) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| — | PTIC | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Atividade-ALGORITMO/README.md) | Teams | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | 11/08/2026 | [🟡](Link) | [🟡](Link) |
 </div>
