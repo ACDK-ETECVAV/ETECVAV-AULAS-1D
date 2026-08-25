@@ -1,7 +1,7 @@
 """
     Autor: Anthony Muraro
     Data: 25/08/2026
-    Descrição: Calcula a média de notas válidas entre 0 e 10 usando while.
+    Descrição: Lê 10 números e conta quantos são positivos, negativos e zeros.
 """
 
 contador = 1
