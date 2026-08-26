@@ -95,4 +95,4 @@
 
 📅 **29/09** — Recuperação
 
-📅 **10/08—~/~"" — Os Patrocinadores estão desatualizados, logo sem atualizações das atividades deles
+📅 **10/08—Até hoje**— Os Patrocinadores estão desatualizados, logo sem atualizações das atividades deles
