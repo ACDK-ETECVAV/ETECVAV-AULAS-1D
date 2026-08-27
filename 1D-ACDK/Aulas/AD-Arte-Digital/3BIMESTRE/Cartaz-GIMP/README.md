@@ -15,7 +15,9 @@ Bom dia!
 O Gimp é uma ferramenta poderosíssima na edição de imagens, segue o link para estudo do que é possível criar no Gimp utilizando diversas imagens, recursos e camadas, sem ter aquela aparência de imagens criadas por IA.
 Usando sua criatividade, a partir destes vídeos, criar algo parecido no GIMP, utilizando os recursos mostrados com diversas imagens e camadas.
 Bons estudos.
-https://www.youtube.com/watch?v=hadKJ6kJE9Q
-https://www.youtube.com/watch?v=igrnuV99wWI
+
+##https://www.youtube.com/watch?v=hadKJ6kJE9Q
+
+##https://www.youtube.com/watch?v=igrnuV99wWI
  
 Profª Cristiane e Prof. Rafael
