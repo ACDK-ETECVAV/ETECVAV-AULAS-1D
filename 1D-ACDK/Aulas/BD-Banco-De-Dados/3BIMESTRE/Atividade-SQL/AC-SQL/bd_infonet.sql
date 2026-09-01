@@ -1,3 +1,9 @@
+/*
+Nome:
+Anthony Muraro
+Calebe Barros Ramalho Da Silva
+*/
+
 CREATE DATABASE bd_infonet;
 GO
 
