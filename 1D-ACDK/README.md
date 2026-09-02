@@ -25,6 +25,7 @@
 | 👱🏻 Calebe Barros Ramalho da Silva | Organização e Geral | GitHub | Guris |
 | 🧢 Daniel Teixeira Vitoriano | Pesquisador | IA / Chat | Patrocinadores |
 | 🍰 Kelven Chetz Man Gallippi | Ajudante Geral | Documentação | Patrocinadores |
+| 🔫 Pietro Mariano Policarpo | Ajudante Geral | IA / Chat | Patrocinadores |
 
 </div>
 
