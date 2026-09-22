@@ -145,6 +145,85 @@ def listar_pedidos():
         print("------------------------")
 
 
+# TURMA A - ALTERAR PREÇO
+def alterar_preco():
+    print("\n--- Alterar preço ---")
+
+    codigo = input("Código do produto: ")
+    produto = procurar_produto(codigo)
+
+    if produto == None:
+        print("Produto não encontrado.")
+        return
+
+    novo_preco = float(input("Novo preço: R$ "))
+
+    produto["preco"] = novo_preco
+
+    salvar_dados()
+
+    print("Preço alterado com sucesso!")
+
+
+# TURMA A - REMOVER PRODUTO
+def remover_produto():
+    print("\n--- Remover produto ---")
+
+    codigo = input("Código do produto: ")
+    produto = procurar_produto(codigo)
+
+    if produto == None:
+        print("Produto não encontrado.")
+        return
+
+    produtos.remove(produto)
+
+    salvar_dados()
+
+    print("Produto removido com sucesso!")
+
+
+# TURMA A - PESQUISAR PRODUTO
+def pesquisar_produto():
+    print("\n--- Pesquisar produto ---")
+
+    nome = input("Nome do produto: ").lower()
+
+    encontrou = False
+
+    for produto in produtos:
+        if nome in produto["nome"].lower():
+            print("Código:", produto["codigo"])
+            print("Nome:", produto["nome"])
+            print(f"Preço: R$ {produto['preco']:.2f}")
+            print("Estoque:", produto["estoque"])
+            print("------------------------")
+            encontrou = True
+
+    if encontrou == False:
+        print("Produto não encontrado.")
+
+
+# TURMA A - RELATÓRIO DE VENDAS
+def relatorio_vendas():
+    print("\n--- Relatório de vendas ---")
+
+    if len(pedidos) == 0:
+        print("Nenhuma venda realizada.")
+        return
+
+    total_vendas = 0
+    quantidade_produtos = 0
+
+    for pedido in pedidos:
+        total_vendas = total_vendas + pedido["total"]
+        quantidade_produtos = quantidade_produtos + pedido["quantidade"]
+
+    print("Total de pedidos:", len(pedidos))
+    print("Produtos vendidos:", quantidade_produtos)
+    print(f"Total vendido: R$ {total_vendas:.2f}")
+
+
 def menu():
     while True:
         print("\n===== LANCHONETE =====")
@@ -152,7 +231,11 @@ def menu():
         print("2 - Listar produtos")
         print("3 - Fazer pedido")
         print("4 - Ver pedidos realizados")
-        print("5 - Sair")
+        print("5 - Alterar preço")
+        print("6 - Remover produto")
+        print("7 - Pesquisar produto")
+        print("8 - Relatório de vendas")
+        print("9 - Sair")
 
         opcao = input("Escolha uma opção: ")
 
@@ -169,6 +252,18 @@ def menu():
             listar_pedidos()
 
         elif opcao == "5":
+            alterar_preco()
+
+        elif opcao == "6":
+            remover_produto()
+
+        elif opcao == "7":
+            pesquisar_produto()
+
+        elif opcao == "8":
+            relatorio_vendas()
+
+        elif opcao == "9":
             salvar_dados()
             print("Sistema encerrado.")
             break
@@ -178,4 +273,4 @@ def menu():
 
 
 carregar_dados()
-menu()
+menu()  
