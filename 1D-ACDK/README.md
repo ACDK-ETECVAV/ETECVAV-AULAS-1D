@@ -91,7 +91,7 @@
 | Lanchonete | PA | [Ver](https://github.com/ronildo-ferreira/ronildo-human-layer/blob/main/universe-zaion/episodio/03-apresentacao/sistema-lanchonete-projeto.md) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/3BIMESTRE/LANCHONETE-CSV/README.md) | 25/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/3BIMESTRE/LANCHONETE-CSV/AC-LANCHONETE) | [🟢](Link) |
 | SQL DH | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Data-SQL/README.md) | 24/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Data-SQL/AC-SQL) | [🟢](Link) |
 | Visual | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Visual-CANVA/README.md) | 24/09/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Visual-CANVA/AC-Visual) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| Evolução | PTIC | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-PROGRAMACAO/README.md) | 30/09/2026 | [🟡](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-PROGRAMACAO/AC-Evolucao) | [🟡](Link) |
 </div>
 
 <div align="center">
