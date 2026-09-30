@@ -123,5 +123,5 @@
 
 ## 📌 Lembretes
 
-📅 **29/09** — Recuperação
+**Teoria**: Aparentemente a cada bimestre aumenta 6 atividades. Então, o 4-Bimestre terá 22 atividades
 
