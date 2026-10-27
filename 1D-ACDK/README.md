@@ -110,7 +110,7 @@
 
 | Trabalho | Disciplina | 📄 Atividade | 📁 Arquivo | 📅 Entrega | 🟦 Guris | 🟨 Patrocinadores |
 |:---------:|:----------:|:------------:|:----------:|:----------:|:--------:|:----------------:|
-| Imagens IA | PTIC | [Ver](Atividade) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/README.md) | --/--/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/AC-Imagens) | [🟡](Link) |
+| Imagens IA | PTIC | [Ver](Atividade) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/README.md) | 10/11/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/AC-Imagens) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
