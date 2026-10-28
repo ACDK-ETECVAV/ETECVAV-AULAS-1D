@@ -92,13 +92,6 @@
 | SQL DH | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Data-SQL/README.md) | 24/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Data-SQL/AC-SQL) | [🟢](Link) |
 | Visual | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Visual-CANVA/README.md) | 24/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Visual-CANVA/AC-Visual) | [🟢](Link) |
 | Evolução | PTIC | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-PROGRAMACAO/README.md) | 30/09/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-PROGRAMACAO/AC-Evolucao) | [🟡](Link) |
-| Empresa | IW | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML) | 27/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML/AC-EMPRESA) | [🟡](Link) |
-| Evolução Sistemas | PTIC | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-SISTEMAS/README.md) | 20/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-SISTEMAS/AC-Evolucao-Sistemas) | [🟡](Link) |
-| Função M & A | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/README.md) | 28/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/AC-Funcao) | [🟡](Link) |
-| Pesquisa | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA) | 29/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA/AC-Pesquisa) | [🟡](Link) |
-| LP | PA | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
-
-
 
 </div>
 
@@ -111,6 +104,11 @@
 | Trabalho | Disciplina | 📄 Atividade | 📁 Arquivo | 📅 Entrega | 🟦 Guris | 🟨 Patrocinadores |
 |:---------:|:----------:|:------------:|:----------:|:----------:|:--------:|:----------------:|
 | Imagens IA | PTIC | [Ver](Atividade) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/README.md) | 10/11/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/4BIMESTRE/Imagens-IA/AC-Imagens) | [🟡](Link) |
+| Empresa | IW | [Ver](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML) | 27/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/3BIMESTRE/EMPRESA-HTML/AC-EMPRESA) | [🟡](Link) |
+| Evolução Sistemas | PTIC | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-SISTEMAS/README.md) | 20/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PTIC-Projetos-de-Tecnologia-de-Informacoes-e-Comunicacoes/3BIMESTRE/Evolucao-SISTEMAS/AC-Evolucao-Sistemas) | [🟡](Link) |
+| Função M & A | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/README.md) | 28/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/AC-Funcao) | [🟡](Link) |
+| Pesquisa | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA) | 29/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA/AC-Pesquisa) | [🟡](Link) |
+| LP | PA | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
