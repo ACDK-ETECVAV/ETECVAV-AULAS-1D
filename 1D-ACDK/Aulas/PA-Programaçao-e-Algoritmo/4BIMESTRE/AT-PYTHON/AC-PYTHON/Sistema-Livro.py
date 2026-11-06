@@ -1,3 +1,19 @@
+'''
+# ==============================================
+# DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+# ==============================================
+#
+# Ferramenta: ChatGPT
+# Etapa: Planejamento e desenvolvimento.
+# Finalidade: Auxílio na organização do código,
+# correção de erros e desenvolvimento das funções
+# de comprar, vender, inserir, remover e visualizar
+# livros no estoque.
+# Validação: O código foi analisado pelos integrantes
+# e suas funcionalidades foram executadas e testadas.
+#
+# ==============================================
+'''
 
 import json
 import os
