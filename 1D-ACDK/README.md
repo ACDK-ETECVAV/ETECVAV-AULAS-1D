@@ -109,7 +109,7 @@
 | Função M & A | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/README.md) | 28/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/3BIMESTRE/Funcao-SQL/AC-Funcao) | [🟡](Link) |
 | Pesquisa | AD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA) | 29/10/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/AD-Arte-Digital/3BIMESTRE/Pesquisa-IA/AC-Pesquisa) | [🟡](Link) |
 | LP | PA | [Ver](Atividade) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/4BIMESTRE/AT-PYTHON/README.md) | 27/11/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/4BIMESTRE/AT-PYTHON/AC-PYTHON) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| Cálculos Mat. | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/CALCULOS-M-SQL/README.md) | 11/11/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/CALCULOS-M-SQL/AC-CAL) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
