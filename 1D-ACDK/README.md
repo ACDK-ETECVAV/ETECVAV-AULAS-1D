@@ -111,7 +111,7 @@
 | LP | PA | [Ver](Atividade) | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/4BIMESTRE/AT-PYTHON/README.md) | 27/11/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/PA-Programa%C3%A7ao-e-Algoritmo/4BIMESTRE/AT-PYTHON/AC-PYTHON) | [🟡](Link) |
 | Cálculos Mat. | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/CALCULOS-M-SQL/README.md) | 11/11/2026 | [🟢](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/CALCULOS-M-SQL/AC-CAL) | [🟡](Link) |
 | Tema Livre | IW | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/IW-Interface-Web/4BIMESTRE/TemaLivre-HTML/README.md) | 30/11/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/IW-Interface-Web/4BIMESTRE/TemaLivre-HTML/AC-TEMALIVRE) | [🟡](Link) |
-| — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
+| Lista 2 | BD | Teams | [Abrir](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/blob/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/LISTA2-SQL/README.md) | 18/11/2026 | [🔵](https://github.com/ACDK-ETECVAV/ETECVAV-AULAS-1D/tree/main/1D-ACDK/Aulas/BD-Banco-De-Dados/4BIMESTRE/LISTA2-SQL/AC-LISTA2) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
 | — | — | [Ver](Atividade) | [Abrir](Repositório) | --/--/2026 | [🟡](Link) | [🟡](Link) |
